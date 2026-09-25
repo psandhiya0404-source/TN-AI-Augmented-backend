@@ -1,0 +1,2193 @@
+{
+  "users": [
+    {
+      "id": "muf241r9lwo79",
+      "createdAt": "2026-09-24T04:53:40.965Z",
+      "updatedAt": "2026-09-24T08:08:29.306Z",
+      "name": "sandhiya",
+      "email": "p.sandhiya0404@gmail.com",
+      "password": "$2a$10$b3N7VwkzBdI.h9RdYVROy..WnXbsxIZHeeMU203x/hlbccNmI2p8W",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=sandhiya",
+      "studyGoals": "Ace exams and build solid understanding",
+      "dailyTargetHours": 2,
+      "studyStreak": 1,
+      "lastLoginDate": "2026-09-24T04:53:40.965Z"
+    },
+    {
+      "id": "muf9cs05fjdyz",
+      "createdAt": "2026-09-24T08:16:25.541Z",
+      "updatedAt": "2026-09-24T08:16:25.541Z",
+      "name": "kalai",
+      "email": "kalai@gmail.com",
+      "password": "$2a$10$gKMwxpiw8.kzoru3WiyN5.uoPur0/WNXCYr7clO9MsiJ8HsiS610K",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=kalai",
+      "studyGoals": "Ace exams and build solid understanding",
+      "dailyTargetHours": 2,
+      "studyStreak": 1,
+      "lastLoginDate": "2026-09-24T08:16:25.541Z"
+    },
+    {
+      "id": "mufu2bdy3ix2o",
+      "createdAt": "2026-09-24T17:56:09.382Z",
+      "updatedAt": "2026-09-24T17:56:09.382Z",
+      "name": "PRIYA",
+      "email": "priya@gmail.com",
+      "password": "$2a$10$vhbgbLTYT90SybFLoesm6O26SEIR91PjrK6wTHDjE9IXEcrmCEP5C",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=PRIYA",
+      "studyGoals": "Ace exams and build solid understanding",
+      "dailyTargetHours": 2,
+      "studyStreak": 1,
+      "lastLoginDate": "2026-09-24T17:56:09.382Z"
+    },
+    {
+      "id": "mugi3y7hr3u8w",
+      "createdAt": "2026-09-25T05:09:16.397Z",
+      "updatedAt": "2026-09-25T06:37:03.833Z",
+      "name": "sandy",
+      "email": "sandy@gmail.com",
+      "password": "$2a$10$Nxkp4BsXQYN3ZKiZ0nRd9.W2zVywpZKeTtq.qFgRwsRJO9PAGvaN2",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=sandy",
+      "studyGoals": "Ace exams and build solid understanding",
+      "dailyTargetHours": 2,
+      "studyStreak": 1,
+      "lastLoginDate": "2026-09-25T06:37:03.833Z"
+    }
+  ],
+  "refresh_tokens": [
+    {
+      "id": "muf9cs0it1mfx",
+      "createdAt": "2026-09-24T08:16:25.554Z",
+      "updatedAt": "2026-09-24T08:16:25.554Z",
+      "userId": "muf9cs05fjdyz",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im11ZjljczA1ZmpkeXoiLCJpYXQiOjE3OTAyMzc3ODUsImV4cCI6MTc5MDg0MjU4NX0.9dQd86HPgCdBK73VD9DH51MXy3o1OVrJx-UNmUWqrjM",
+      "expiresAt": "2026-10-01T08:16:25.553Z"
+    },
+    {
+      "id": "mufu2bejw46vn",
+      "createdAt": "2026-09-24T17:56:09.403Z",
+      "updatedAt": "2026-09-24T17:56:09.403Z",
+      "userId": "mufu2bdy3ix2o",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im11ZnUyYmR5M2l4Mm8iLCJpYXQiOjE3OTAyNzI1NjksImV4cCI6MTc5MDg3NzM2OX0.Jevb-vCGLPVWS_wQiwoiVr0MBhmWRr2gpDVMeiG_S50",
+      "expiresAt": "2026-10-01T17:56:09.403Z"
+    },
+    {
+      "id": "mugl8ulcnfjxn",
+      "createdAt": "2026-09-25T06:37:03.840Z",
+      "updatedAt": "2026-09-25T06:37:03.840Z",
+      "userId": "mugi3y7hr3u8w",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im11Z2kzeTdocjN1OHciLCJpYXQiOjE3OTAzMTgyMjMsImV4cCI6MTc5MDkyMzAyM30.mXHJGcv3wHeS9UvDyxTk8tNHkGYfiSDEccrfoj2tubY",
+      "expiresAt": "2026-10-02T06:37:03.840Z"
+    }
+  ],
+  "documents": [
+    {
+      "id": "muf356f4079qu",
+      "createdAt": "2026-09-24T05:22:33.280Z",
+      "updatedAt": "2026-09-24T05:22:33.290Z",
+      "userId": "muf241r9lwo79",
+      "originalName": "Routing Algorithm in Computer Networks.pdf",
+      "filename": "Routing_Algorithm_in_Computer_Networks-1790227352907-424161533.pdf",
+      "filePath": "C:\\Users\\acer\\Downloads\\Study Buddy 2\\server\\uploads\\Routing_Algorithm_in_Computer_Networks-1790227352907-424161533.pdf",
+      "fileType": ".pdf",
+      "fileSize": 396081,
+      "extractedText": "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route or path to transfer data\npackets from source to the destination. They help in directing Internet traffic efficiently.\nAfter a data packet leaves its source, it can choose among the many different paths to\nreach its destination. Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through.\nTypes of Routing Algorithms\nRouting algorithms can be broadly categorized into two types, adaptive and\nnonadaptive routing algorithms. They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, also known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions. It constructs the routing\ntable depending upon the network traffic and topology. They try to compute the\noptimized route depending upon the hop count, transit time and distance.\nThe three popular types of adaptive routing algorithms are\n01/09/2026, 18:07Routing Algorithm in Computer Networks\nhttps://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2\n\nCentralized algorithm It finds the least-cost path between source and\ndestination nodes by using global knowledge about the network. So, it is also\nknown as global routing algorithm.\nIsolated algorithm This algorithm procures the routing information by using\nlocal information instead of gathering information from other nodes.\nDistributed algorithm This is a decentralized algorithm that computes the\nleast-cost path between source and destination iteratively in a distributed\nmanner.\nNon Adaptive Routing Algorithms\nNon-adaptive Routing algorithms, also known as static routing algorithms, construct a\nstatic routing table to determine the path through which packets are to be sent. The\nstatic routing table is constructed based upon the routing information stored in the\nrouters when the network is booted up.\nThe two types of non adaptive routing algorithms are\nFlooding In flooding, when a data packet arrives at a router, it is sent to all the\noutgoing links except the one it has arrived on. Flooding may be uncontrolled,\ncontrolled or selective flooding.\nRandom walks This is a probabilistic algorithm where a data packet is sent by\nthe router to any one of its neighbours randomly.\n01/09/2026, 18:07Routing Algorithm in Computer Networks\nhttps://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+      "wordCount": 363,
+      "pageCount": 2,
+      "summary": {
+        "title": "Study Overview: Routing Algorithm in Computer Networks.pdf",
+        "wordCount": 363,
+        "readingTimeMinutes": 2,
+        "executiveSummary": "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route or path to transfer data\npackets from source to the destination. They help in directing Internet traffic efficiently. After a data packet leaves its source, it can choose among the many different paths to\nreach its destination.",
+        "keyPoints": [
+          "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route or path to transfer data\npackets from source to the destination.",
+          "Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through.",
+          "It constructs the routing\ntable depending upon the network traffic and topology.",
+          "Isolated algorithm This algorithm procures the routing information by using\nlocal information instead of gathering information from other nodes.",
+          "The\nstatic routing table is constructed based upon the routing information stored in the\nrouters when the network is booted up."
+        ],
+        "keyTerminology": [
+          {
+            "term": "Routing",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to routing-related processes and structures."
+          },
+          {
+            "term": "Algorithm",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to algorithm-related processes and structures."
+          },
+          {
+            "term": "Algorithms",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to algorithms-related processes and structures."
+          },
+          {
+            "term": "Adaptive",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to adaptive-related processes and structures."
+          },
+          {
+            "term": "Computer",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to computer-related processes and structures."
+          },
+          {
+            "term": "Networks",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to networks-related processes and structures."
+          }
+        ],
+        "deepDiveSections": [
+          {
+            "title": "https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2",
+            "content": "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route or path to transfer data\npackets from source to the destination. They help in directing Internet traffic efficiently."
+          },
+          {
+            "title": "https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+            "content": "After a data packet leaves its source, it can choose among the many different paths to\nreach its destination. Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through."
+          }
+        ]
+      },
+      "flashcardSetId": "muf356f6fsg2a",
+      "quizSetId": "muf356f9sy2cd",
+      "studyPlanSetId": "muf356fbpokna"
+    },
+    {
+      "id": "muf96phe7lmj5",
+      "createdAt": "2026-09-24T08:11:42.338Z",
+      "updatedAt": "2026-09-24T08:11:42.352Z",
+      "userId": "muf241r9lwo79",
+      "originalName": "test doc.txt",
+      "filename": "test_doc-1790237502303-730492875.txt",
+      "filePath": "C:\\Users\\acer\\Downloads\\Study Buddy 2\\server\\uploads\\test_doc-1790237502303-730492875.txt",
+      "fileType": ".txt",
+      "fileSize": 12848,
+      "extractedText": "# Python Data Types – Detailed Notes\r\n\r\n## 1. Introduction\r\n\r\nA **data type** specifies the type of value that a variable can store.\r\n\r\nIn Python, variables do not need to be declared with a data type. Python automatically identifies the data type based on the value assigned to the variable.\r\n\r\n### Example:\r\n\r\n```python\r\nx = 10\r\nname = \"Sandhiya\"\r\nprice = 25.5\r\n```\r\n\r\nHere:\r\n\r\n* `x` → Integer (`int`)\r\n* `name` → String (`str`)\r\n* `price` → Floating point (`float`)\r\n\r\nWe can find the data type using the `type()` function.\r\n\r\n```python\r\nx = 10\r\nprint(type(x))\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\n<class 'int'>\r\n```\r\n\r\n---\r\n\r\n# 2. Types of Data Types in Python\r\n\r\nPython provides several built-in data types.\r\n\r\n### Main categories:\r\n\r\n1. **Numeric Data Types**\r\n\r\n   * `int`\r\n   * `float`\r\n   * `complex`\r\n\r\n2. **Boolean Data Type**\r\n\r\n   * `bool`\r\n\r\n3. **Sequence Data Types**\r\n\r\n   * `str`\r\n   * `list`\r\n   * `tuple`\r\n   * `range`\r\n\r\n4. **Set Data Type**\r\n\r\n   * `set`\r\n   * `frozenset`\r\n\r\n5. **Mapping Data Type**\r\n\r\n   * `dict`\r\n\r\n6. **Binary Data Types**\r\n\r\n   * `bytes`\r\n   * `bytearray`\r\n   * `memoryview`\r\n\r\n7. **None Data Type**\r\n\r\n   * `NoneType`\r\n\r\n---\r\n\r\n# 3. Numeric Data Types\r\n\r\nNumeric data types are used to store numbers.\r\n\r\nPython has three main numeric data types:\r\n\r\n* Integer\r\n* Float\r\n* Complex\r\n\r\n---\r\n\r\n## A. Integer (`int`)\r\n\r\nAn integer is a **whole number** without a decimal point.\r\n\r\nIt can be positive, negative, or zero.\r\n\r\n### Example:\r\n\r\n```python\r\na = 10\r\nb = -25\r\nc = 0\r\n\r\nprint(a)\r\nprint(b)\r\nprint(c)\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\n10\r\n-25\r\n0\r\n```\r\n\r\n### Example:\r\n\r\n```python\r\nage = 18\r\nmarks = 95\r\n```\r\n\r\nHere, `age` and `marks` are integers.\r\n\r\n### Important points:\r\n\r\n* Integers do not contain decimal values.\r\n* They can be positive or negative.\r\n* Python supports very large integers.\r\n\r\n---\r\n\r\n## B. Float (`float`)\r\n\r\nA float represents a **decimal or fractional number**.\r\n\r\n### Example:\r\n\r\n```python\r\nx = 10.5\r\ny = 25.75\r\nz = -3.14\r\n```\r\n\r\nAll three values are floating-point numbers.\r\n\r\n```python\r\nprint(type(x))\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\n<class 'float'>\r\n```\r\n\r\n### Example:\r\n\r\n```python\r\npercentage = 87.5\r\ntemperature = 36.6\r\n```\r\n\r\n---\r\n\r\n## C. Complex (`complex`)\r\n\r\nA complex number contains a **real part and an imaginary part**.\r\n\r\nThe imaginary part is represented using `j` in Python.\r\n\r\n### Syntax:\r\n\r\n```python\r\nreal + imaginaryj\r\n```\r\n\r\n### Example:\r\n\r\n```python\r\nx = 3 + 4j\r\nprint(x)\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\n(3+4j)\r\n```\r\n\r\n### Example:\r\n\r\n```python\r\nz = 5 + 2j\r\n\r\nprint(z.real)\r\nprint(z.imag)\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\n5.0\r\n2.0\r\n```\r\n\r\n---\r\n\r\n# 4. Boolean Data Type (`bool`)\r\n\r\nBoolean data type has only two possible values:\r\n\r\n* `True`\r\n* `False`\r\n\r\nBoolean values are mainly used in **conditions and decision-making**.\r\n\r\n### Example:\r\n\r\n```python\r\na = True\r\nb = False\r\n\r\nprint(a)\r\nprint(b)\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\nTrue\r\nFalse\r\n```\r\n\r\n### Example:\r\n\r\n```python\r\nage = 18\r\nprint(age >= 18)\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\nTrue\r\n```\r\n\r\n### Common uses:\r\n\r\n* `if` statements\r\n* `while` loops\r\n* Comparisons\r\n* Logical operations\r\n\r\nExample:\r\n\r\n```python\r\nmarks = 80\r\n\r\nif marks >= 50:\r\n    print(\"Pass\")\r\nelse:\r\n    print(\"Fail\")\r\n```\r\n\r\n---\r\n\r\n# 5. String Data Type (`str`)\r\n\r\nA string is a **sequence of characters**.\r\n\r\nStrings are written inside:\r\n\r\n* Single quotes `' '`\r\n* Double quotes `\" \"`\r\n* Triple quotes `''' '''` or `\"\"\" \"\"\"`\r\n\r\n### Example:\r\n\r\n```python\r\nname = \"Sandhiya\"\r\n```\r\n\r\n```python\r\ncollege = 'Jaya College'\r\n```\r\n\r\n### String with multiple lines:\r\n\r\n```python\r\nmessage = \"\"\"Welcome\r\nto Python\r\nProgramming\"\"\"\r\n```\r\n\r\n### String operations\r\n\r\n#### Concatenation\r\n\r\nJoining two strings is called concatenation.\r\n\r\n```python\r\nfirst = \"Hello\"\r\nsecond = \"Python\"\r\n\r\nresult = first + \" \" + second\r\nprint(result)\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\nHello Python\r\n```\r\n\r\n#### Repetition\r\n\r\n```python\r\nword = \"Hi \"\r\nprint(word * 3)\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\nHi Hi Hi\r\n```\r\n\r\n#### Indexing\r\n\r\nEach character has an index.\r\n\r\n```python\r\nname = \"Python\"\r\n\r\nprint(name[0])\r\nprint(name[1])\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\nP\r\ny\r\n```\r\n\r\nPython uses **zero-based indexing**.\r\n\r\n| Character | P | y | t | h | o | n |\r\n| --------- | - | - | - | - | - | - |\r\n| Index     | 0 | 1 | 2 | 3 | 4 | 5 |\r\n\r\n---\r\n\r\n# 6. List Data Type (`list`)\r\n\r\nA list is an **ordered and changeable collection of elements**.\r\n\r\nLists can contain different types of data.\r\n\r\nLists are written using **square brackets `[ ]`**.\r\n\r\n### Example:\r\n\r\n```python\r\nnumbers = [10, 20, 30, 40]\r\n```\r\n\r\n### Different data types in a list:\r\n\r\n```python\r\nstudent = [\"Sandhiya\", 18, 85.5, True]\r\n```\r\n\r\n### Accessing list elements:\r\n\r\n```python\r\nfruits = [\"Apple\", \"Mango\", \"Orange\"]\r\n\r\nprint(fruits[0])\r\nprint(fruits[1])\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\nApple\r\nMango\r\n```\r\n\r\n### Modifying a list:\r\n\r\n```python\r\nfruits[1] = \"Banana\"\r\n\r\nprint(fruits)\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\n['Apple', 'Banana', 'Orange']\r\n```\r\n\r\n### Common list methods:\r\n\r\n```python\r\nappend()\r\ninsert()\r\nremove()\r\npop()\r\nsort()\r\nreverse()\r\n```\r\n\r\nExample:\r\n\r\n```python\r\nnumbers = [10, 20, 30]\r\n\r\nnumbers.append(40)\r\n\r\nprint(numbers)\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\n[10, 20, 30, 40]\r\n```\r\n\r\n### Important point:\r\n\r\n**List is mutable**, meaning its elements can be changed after creation.\r\n\r\n---\r\n\r\n# 7. Tuple Data Type (`tuple`)\r\n\r\nA tuple is an **ordered and unchangeable collection of elements**.\r\n\r\nTuples are written using **parentheses `( )`**.\r\n\r\n### Example:\r\n\r\n```python\r\nnumbers = (10, 20, 30, 40)\r\n```\r\n\r\nAccessing elements:\r\n\r\n```python\r\nprint(numbers[0])\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\n10\r\n```\r\n\r\n### Tuple with different data types:\r\n\r\n```python\r\nstudent = (\"Sandhiya\", 18, 85.5)\r\n```\r\n\r\n### Important point:\r\n\r\nA tuple is **immutable**.\r\n\r\nThis means we cannot change its elements after creation.\r\n\r\n```python\r\nnumbers = (10, 20, 30)\r\n\r\n# numbers[0] = 100\r\n```\r\n\r\nThe above modification produces an error.\r\n\r\n### List vs Tuple\r\n\r\n| List                             | Tuple                         |\r\n| -------------------------------- | ----------------------------- |\r\n| Uses `[ ]`                       | Uses `( )`                    |\r\n| Mutable                          | Immutable                     |\r\n| Can be modified                  | Cannot be modified            |\r\n| Generally used for changing data | Generally used for fixed data |\r\n\r\n---\r\n\r\n# 8. Range Data Type (`range`)\r\n\r\nThe `range()` function generates a sequence of numbers.\r\n\r\nIt is commonly used with **loops**.\r\n\r\n### Example:\r\n\r\n```python\r\nnumbers = range(5)\r\n\r\nprint(list(numbers))\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\n[0, 1, 2, 3, 4]\r\n```\r\n\r\n### Syntax:\r\n\r\n```python\r\nrange(start, stop, step)\r\n```\r\n\r\nExample:\r\n\r\n```python\r\nprint(list(range(1, 10, 2)))\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\n[1, 3, 5, 7, 9]\r\n```\r\n\r\n---\r\n\r\n# 9. Set Data Type (`set`)\r\n\r\nA set is an **unordered collection of unique elements**.\r\n\r\nSets are written using **curly brackets `{ }`**.\r\n\r\n### Example:\r\n\r\n```python\r\nnumbers = {10, 20, 30, 40}\r\nprint(numbers)\r\n```\r\n\r\n### Duplicate values\r\n\r\nSets automatically remove duplicate values.\r\n\r\n```python\r\nnumbers = {10, 20, 20, 30, 30}\r\n\r\nprint(numbers)\r\n```\r\n\r\nThe result contains only unique values.\r\n\r\n### Example:\r\n\r\n```python\r\nfruits = {\"Apple\", \"Mango\", \"Orange\"}\r\n```\r\n\r\n### Important characteristics:\r\n\r\n* Unordered\r\n* No duplicate values\r\n* Mutable\r\n* Elements cannot be accessed using normal indexing\r\n\r\n### Common set methods:\r\n\r\n```python\r\nadd()\r\nremove()\r\ndiscard()\r\nunion()\r\nintersection()\r\ndifference()\r\n```\r\n\r\n---\r\n\r\n# 10. Frozen Set (`frozenset`)\r\n\r\nA `frozenset` is an **immutable version of a set**.\r\n\r\n### Example:\r\n\r\n```python\r\nnumbers = frozenset([10, 20, 30])\r\n\r\nprint(numbers)\r\n```\r\n\r\nUnlike a normal set, a frozenset cannot be modified.\r\n\r\n---\r\n\r\n# 11. Dictionary Data Type (`dict`)\r\n\r\nA dictionary stores data in **key-value pairs**.\r\n\r\nIt is written using curly brackets `{ }`.\r\n\r\n### Syntax:\r\n\r\n```python\r\ndictionary = {\r\n    key: value\r\n}\r\n```\r\n\r\n### Example:\r\n\r\n```python\r\nstudent = {\r\n    \"name\": \"Sandhiya\",\r\n    \"age\": 18,\r\n    \"marks\": 85\r\n}\r\n```\r\n\r\nHere:\r\n\r\n* `\"name\"` → Key\r\n* `\"Sandhiya\"` → Value\r\n* `\"age\"` → Key\r\n* `18` → Value\r\n\r\n### Accessing values:\r\n\r\n```python\r\nprint(student[\"name\"])\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\nSandhiya\r\n```\r\n\r\n### Modifying values:\r\n\r\n```python\r\nstudent[\"marks\"] = 90\r\n```\r\n\r\n### Adding a new item:\r\n\r\n```python\r\nstudent[\"city\"] = \"Chennai\"\r\n```\r\n\r\n### Common dictionary methods:\r\n\r\n```python\r\nkeys()\r\nvalues()\r\nitems()\r\nget()\r\nupdate()\r\npop()\r\n```\r\n\r\n---\r\n\r\n# 12. Binary Data Types\r\n\r\nPython provides three binary data types:\r\n\r\n### 1. `bytes`\r\n\r\n`bytes` stores immutable binary data.\r\n\r\n```python\r\ndata = b\"Hello\"\r\nprint(data)\r\n```\r\n\r\n### 2. `bytearray`\r\n\r\n`bytearray` stores mutable binary data.\r\n\r\n```python\r\ndata = bytearray(5)\r\nprint(data)\r\n```\r\n\r\n### 3. `memoryview`\r\n\r\n`memoryview` provides access to the memory of another binary object without copying the data.\r\n\r\n```python\r\ndata = memoryview(bytes(5))\r\nprint(data)\r\n```\r\n\r\nThese types are commonly useful when working with **files, images, network data, and binary information**.\r\n\r\n---\r\n\r\n# 13. None Type (`NoneType`)\r\n\r\nPython has a special value called `None`.\r\n\r\nIt represents **no value or absence of a value**.\r\n\r\n### Example:\r\n\r\n```python\r\nx = None\r\n\r\nprint(x)\r\nprint(type(x))\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\nNone\r\n<class 'NoneType'>\r\n```\r\n\r\nIt is commonly used when a variable currently has no value.\r\n\r\n---\r\n\r\n# 14. Mutable and Immutable Data Types\r\n\r\nThis is an important concept in Python.\r\n\r\n### Mutable\r\n\r\nA mutable object can be changed after it is created.\r\n\r\nExamples:\r\n\r\n* `list`\r\n* `set`\r\n* `dict`\r\n* `bytearray`\r\n\r\n### Immutable\r\n\r\nAn immutable object cannot be changed after it is created.\r\n\r\nExamples:\r\n\r\n* `int`\r\n* `float`\r\n* `complex`\r\n* `bool`\r\n* `str`\r\n* `tuple`\r\n* `frozenset`\r\n* `bytes`\r\n\r\n### Simple table:\r\n\r\n| Mutable    | Immutable |\r\n| ---------- | --------- |\r\n| List       | Integer   |\r\n| Set        | Float     |\r\n| Dictionary | Complex   |\r\n| Bytearray  | Boolean   |\r\n|            | String    |\r\n|            | Tuple     |\r\n|            | Frozenset |\r\n|            | Bytes     |\r\n\r\n---\r\n\r\n# 15. Type Checking\r\n\r\nPython provides the `type()` function to identify the type of a variable.\r\n\r\n### Example:\r\n\r\n```python\r\na = 10\r\nb = 10.5\r\nc = \"Hello\"\r\nd = [1, 2, 3]\r\n\r\nprint(type(a))\r\nprint(type(b))\r\nprint(type(c))\r\nprint(type(d))\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\n<class 'int'>\r\n<class 'float'>\r\n<class 'str'>\r\n<class 'list'>\r\n```\r\n\r\n---\r\n\r\n# 16. Type Conversion\r\n\r\nType conversion means changing one data type into another.\r\n\r\n### Integer to Float\r\n\r\n```python\r\nx = 10\r\ny = float(x)\r\n\r\nprint(y)\r\n```\r\n\r\nOutput:\r\n\r\n```text\r\n10.0\r\n```\r\n\r\n### Float to Integer\r\n\r\n```python\r\nx = 10.5\r\ny = int(x)\r\n\r\nprint(y)\r\n```\r\n\r\nOutput:\r\n\r\n```text\r\n10\r\n```\r\n\r\n### Integer to String\r\n\r\n```python\r\nx = 100\r\ny = str(x)\r\n\r\nprint(y)\r\n```\r\n\r\nOutput:\r\n\r\n```text\r\n100\r\n```\r\n\r\n### String to Integer\r\n\r\n```python\r\nx = \"50\"\r\ny = int(x)\r\n\r\nprint(y)\r\n```\r\n\r\nOutput:\r\n\r\n```text\r\n50\r\n```\r\n\r\nCommon conversion functions:\r\n\r\n```text\r\nint()\r\nfloat()\r\nstr()\r\nbool()\r\nlist()\r\ntuple()\r\nset()\r\ndict()\r\n```\r\n\r\n---\r\n\r\n# 17. Summary Table\r\n\r\n| Data Type    | Example            | Description                   |\r\n| ------------ | ------------------ | ----------------------------- |\r\n| `int`        | `10`               | Whole numbers                 |\r\n| `float`      | `10.5`             | Decimal numbers               |\r\n| `complex`    | `3+4j`             | Complex numbers               |\r\n| `bool`       | `True`             | True/False values             |\r\n| `str`        | `\"Hello\"`          | Text/characters               |\r\n| `list`       | `[1,2,3]`          | Ordered, mutable collection   |\r\n| `tuple`      | `(1,2,3)`          | Ordered, immutable collection |\r\n| `range`      | `range(5)`         | Sequence of numbers           |\r\n| `set`        | `{1,2,3}`          | Unique elements               |\r\n| `frozenset`  | `frozenset([1,2])` | Immutable set                 |\r\n| `dict`       | `{\"a\":1}`          | Key-value pairs               |\r\n| `bytes`      | `b\"Hello\"`         | Immutable binary data         |\r\n| `bytearray`  | `bytearray(5)`     | Mutable binary data           |\r\n| `memoryview` | `memoryview(...)`  | Memory access                 |\r\n| `NoneType`   | `None`             | Absence of value              |\r\n\r\n## Conclusion\r\n\r\nPython provides many built-in data types to store and manipulate different kinds of information. The most commonly used types are **int, float, complex, bool, string, list, tuple, set, and dictionary**. Python's dynamic typing allows the programmer to assign values without explicitly declaring their data types. Understanding data types is essential for writing correct and efficient Python programs.",
+      "wordCount": 1821,
+      "pageCount": 1,
+      "summary": {
+        "title": "Study Overview: test doc.txt",
+        "wordCount": 1821,
+        "readingTimeMinutes": 10,
+        "executiveSummary": "# Python Data Types – Detailed Notes\r\n\r\n## 1. Introduction\r\n\r\nA **data type** specifies the type of value that a variable can store. In Python, variables do not need to be declared with a data type.",
+        "keyPoints": [
+          "# Python Data Types – Detailed Notes\r\n\r\n## 1.",
+          "Complex (`complex`)\r\n\r\nA complex number contains a **real part and an imaginary part**.",
+          "--------------------------------",
+          "Frozen Set (`frozenset`)\r\n\r\nA `frozenset` is an **immutable version of a set**.\r\n\r\n### Example:\r\n\r\n```python\r\nnumbers = frozenset([10, 20, 30])\r\n\r\nprint(numbers)\r\n```\r\n\r\nUnlike a normal set, a frozenset cannot be modified.\r\n\r\n---\r\n\r\n# 11.",
+          "Examples:\r\n\r\n* `int`\r\n* `float`\r\n* `complex`\r\n* `bool`\r\n* `str`\r\n* `tuple`\r\n* `frozenset`\r\n* `bytes`\r\n\r\n### Simple table:"
+        ],
+        "keyTerminology": [
+          {
+            "term": "Python",
+            "definition": "Essential concept in test doc.txt referring to python-related processes and structures."
+          },
+          {
+            "term": "Print",
+            "definition": "Essential concept in test doc.txt referring to print-related processes and structures."
+          },
+          {
+            "term": "Example",
+            "definition": "Essential concept in test doc.txt referring to example-related processes and structures."
+          },
+          {
+            "term": "Output",
+            "definition": "Essential concept in test doc.txt referring to output-related processes and structures."
+          },
+          {
+            "term": "Numbers",
+            "definition": "Essential concept in test doc.txt referring to numbers-related processes and structures."
+          },
+          {
+            "term": "Types",
+            "definition": "Essential concept in test doc.txt referring to types-related processes and structures."
+          }
+        ],
+        "deepDiveSections": [
+          {
+            "title": "Python Data Types – Detailed Notes",
+            "content": "# Python Data Types – Detailed Notes\r\n\r\n## 1. Introduction\r\n\r\nA **data type** specifies the type of value that a variable can store."
+          },
+          {
+            "title": "Introduction",
+            "content": "In Python, variables do not need to be declared with a data type. Numeric Data Types\r\n\r\nNumeric data types are used to store numbers."
+          },
+          {
+            "title": "Example:",
+            "content": "Python has three main numeric data types:\r\n\r\n* Integer\r\n* Float\r\n* Complex\r\n\r\n---\r\n\r\n## A. Integer (`int`)\r\n\r\nAn integer is a **whole number** without a decimal point."
+          },
+          {
+            "title": "Here:",
+            "content": "Complex (`complex`)\r\n\r\nA complex number contains a **real part and an imaginary part**. String Data Type (`str`)\r\n\r\nA string is a **sequence of characters**."
+          }
+        ]
+      },
+      "flashcardSetId": "muf96phh3ylxn",
+      "quizSetId": "muf96phkdp4j9",
+      "studyPlanSetId": "muf96phn6oacw"
+    },
+    {
+      "id": "mufu43hm8o7l3",
+      "createdAt": "2026-09-24T17:57:32.458Z",
+      "updatedAt": "2026-09-24T17:57:32.469Z",
+      "userId": "mufu2bdy3ix2o",
+      "originalName": "Routing Algorithm in Computer Networks.pdf",
+      "filename": "Routing_Algorithm_in_Computer_Networks-1790272651193-201581694.pdf",
+      "filePath": "C:\\Users\\acer\\Downloads\\Study Buddy 2\\server\\uploads\\Routing_Algorithm_in_Computer_Networks-1790272651193-201581694.pdf",
+      "fileType": ".pdf",
+      "fileSize": 396081,
+      "extractedText": "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route or path to transfer data\npackets from source to the destination. They help in directing Internet traffic efficiently.\nAfter a data packet leaves its source, it can choose among the many different paths to\nreach its destination. Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through.\nTypes of Routing Algorithms\nRouting algorithms can be broadly categorized into two types, adaptive and\nnonadaptive routing algorithms. They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, also known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions. It constructs the routing\ntable depending upon the network traffic and topology. They try to compute the\noptimized route depending upon the hop count, transit time and distance.\nThe three popular types of adaptive routing algorithms are\n01/09/2026, 18:07Routing Algorithm in Computer Networks\nhttps://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2\n\nCentralized algorithm It finds the least-cost path between source and\ndestination nodes by using global knowledge about the network. So, it is also\nknown as global routing algorithm.\nIsolated algorithm This algorithm procures the routing information by using\nlocal information instead of gathering information from other nodes.\nDistributed algorithm This is a decentralized algorithm that computes the\nleast-cost path between source and destination iteratively in a distributed\nmanner.\nNon Adaptive Routing Algorithms\nNon-adaptive Routing algorithms, also known as static routing algorithms, construct a\nstatic routing table to determine the path through which packets are to be sent. The\nstatic routing table is constructed based upon the routing information stored in the\nrouters when the network is booted up.\nThe two types of non adaptive routing algorithms are\nFlooding In flooding, when a data packet arrives at a router, it is sent to all the\noutgoing links except the one it has arrived on. Flooding may be uncontrolled,\ncontrolled or selective flooding.\nRandom walks This is a probabilistic algorithm where a data packet is sent by\nthe router to any one of its neighbours randomly.\n01/09/2026, 18:07Routing Algorithm in Computer Networks\nhttps://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+      "wordCount": 363,
+      "pageCount": 2,
+      "summary": {
+        "title": "Study Overview: Routing Algorithm in Computer Networks.pdf",
+        "wordCount": 363,
+        "readingTimeMinutes": 2,
+        "executiveSummary": "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route or path to transfer data\npackets from source to the destination. They help in directing Internet traffic efficiently. After a data packet leaves its source, it can choose among the many different paths to\nreach its destination.",
+        "keyPoints": [
+          "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route or path to transfer data\npackets from source to the destination.",
+          "Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through.",
+          "It constructs the routing\ntable depending upon the network traffic and topology.",
+          "Isolated algorithm This algorithm procures the routing information by using\nlocal information instead of gathering information from other nodes.",
+          "The\nstatic routing table is constructed based upon the routing information stored in the\nrouters when the network is booted up."
+        ],
+        "keyTerminology": [
+          {
+            "term": "Routing",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to routing-related processes and structures."
+          },
+          {
+            "term": "Algorithm",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to algorithm-related processes and structures."
+          },
+          {
+            "term": "Algorithms",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to algorithms-related processes and structures."
+          },
+          {
+            "term": "Adaptive",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to adaptive-related processes and structures."
+          },
+          {
+            "term": "Computer",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to computer-related processes and structures."
+          },
+          {
+            "term": "Networks",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to networks-related processes and structures."
+          }
+        ],
+        "deepDiveSections": [
+          {
+            "title": "https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2",
+            "content": "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route or path to transfer data\npackets from source to the destination. They help in directing Internet traffic efficiently."
+          },
+          {
+            "title": "https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+            "content": "After a data packet leaves its source, it can choose among the many different paths to\nreach its destination. Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through."
+          }
+        ]
+      },
+      "flashcardSetId": "mufu43hpqowfz",
+      "quizSetId": "mufu43hsusqix",
+      "studyPlanSetId": "mufu43hu63f6e"
+    },
+    {
+      "id": "mugicg1t3eqln",
+      "createdAt": "2026-09-25T05:15:52.769Z",
+      "updatedAt": "2026-09-25T05:15:52.788Z",
+      "userId": "mugi3y7hr3u8w",
+      "originalName": "Routing Algorithm in Computer Networks.pdf",
+      "filename": "Routing_Algorithm_in_Computer_Networks-1790313351175-910892233.pdf",
+      "filePath": "C:\\Users\\acer\\Downloads\\Study Buddy 2\\server\\uploads\\Routing_Algorithm_in_Computer_Networks-1790313351175-910892233.pdf",
+      "fileType": ".pdf",
+      "fileSize": 396081,
+      "extractedText": "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route or path to transfer data\npackets from source to the destination. They help in directing Internet traffic efficiently.\nAfter a data packet leaves its source, it can choose among the many different paths to\nreach its destination. Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through.\nTypes of Routing Algorithms\nRouting algorithms can be broadly categorized into two types, adaptive and\nnonadaptive routing algorithms. They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, also known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions. It constructs the routing\ntable depending upon the network traffic and topology. They try to compute the\noptimized route depending upon the hop count, transit time and distance.\nThe three popular types of adaptive routing algorithms are\n01/09/2026, 18:07Routing Algorithm in Computer Networks\nhttps://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2\n\nCentralized algorithm It finds the least-cost path between source and\ndestination nodes by using global knowledge about the network. So, it is also\nknown as global routing algorithm.\nIsolated algorithm This algorithm procures the routing information by using\nlocal information instead of gathering information from other nodes.\nDistributed algorithm This is a decentralized algorithm that computes the\nleast-cost path between source and destination iteratively in a distributed\nmanner.\nNon Adaptive Routing Algorithms\nNon-adaptive Routing algorithms, also known as static routing algorithms, construct a\nstatic routing table to determine the path through which packets are to be sent. The\nstatic routing table is constructed based upon the routing information stored in the\nrouters when the network is booted up.\nThe two types of non adaptive routing algorithms are\nFlooding In flooding, when a data packet arrives at a router, it is sent to all the\noutgoing links except the one it has arrived on. Flooding may be uncontrolled,\ncontrolled or selective flooding.\nRandom walks This is a probabilistic algorithm where a data packet is sent by\nthe router to any one of its neighbours randomly.\n01/09/2026, 18:07Routing Algorithm in Computer Networks\nhttps://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+      "wordCount": 363,
+      "pageCount": 2,
+      "summary": {
+        "title": "Study Overview: Routing Algorithm in Computer Networks.pdf",
+        "wordCount": 363,
+        "readingTimeMinutes": 2,
+        "executiveSummary": "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route or path to transfer data\npackets from source to the destination. They help in directing Internet traffic efficiently. After a data packet leaves its source, it can choose among the many different paths to\nreach its destination.",
+        "keyPoints": [
+          "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route or path to transfer data\npackets from source to the destination.",
+          "Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through.",
+          "It constructs the routing\ntable depending upon the network traffic and topology.",
+          "Isolated algorithm This algorithm procures the routing information by using\nlocal information instead of gathering information from other nodes.",
+          "The\nstatic routing table is constructed based upon the routing information stored in the\nrouters when the network is booted up."
+        ],
+        "keyTerminology": [
+          {
+            "term": "Routing",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to routing-related processes and structures."
+          },
+          {
+            "term": "Algorithm",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to algorithm-related processes and structures."
+          },
+          {
+            "term": "Algorithms",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to algorithms-related processes and structures."
+          },
+          {
+            "term": "Adaptive",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to adaptive-related processes and structures."
+          },
+          {
+            "term": "Computer",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to computer-related processes and structures."
+          },
+          {
+            "term": "Networks",
+            "definition": "Essential concept in Routing Algorithm in Computer Networks.pdf referring to networks-related processes and structures."
+          }
+        ],
+        "deepDiveSections": [
+          {
+            "title": "https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2",
+            "content": "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route or path to transfer data\npackets from source to the destination. They help in directing Internet traffic efficiently."
+          },
+          {
+            "title": "https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+            "content": "After a data packet leaves its source, it can choose among the many different paths to\nreach its destination. Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through."
+          }
+        ]
+      },
+      "flashcardSetId": "mugicg1yfmjdw",
+      "quizSetId": "mugicg22mwowf",
+      "studyPlanSetId": "mugicg27237tp"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "muf356f9sy2cd",
+      "createdAt": "2026-09-24T05:22:33.285Z",
+      "updatedAt": "2026-09-24T07:18:31.924Z",
+      "userId": "muf241r9lwo79",
+      "docId": "muf356f4079qu",
+      "docName": "Routing Algorithm in Computer Networks.pdf",
+      "title": "Quiz: Routing Algorithm in Computer Networks.pdf",
+      "questions": [
+        {
+          "id": "q_3",
+          "questionText": "Fill in the blank: \"After a data packet leaves its source, it can ________ among the many different paths to\nreach its destination.\"",
+          "options": [
+            "choose",
+            "Static dependency",
+            "Variable threshold",
+            "Sequential outcome"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "The correct term is \"choose\", which completes: \"After a data packet leaves its source, it can choose among the many different paths to\nreach its destination.\"."
+        },
+        {
+          "id": "q_4",
+          "questionText": "Fill in the blank: \"Routing algorithm mathematically computes the best path, i.e.\nleast ________ path that the packet can be routed through.\"",
+          "options": [
+            "Static dependency",
+            "Sequential outcome",
+            "External factor",
+            "cost"
+          ],
+          "correctAnswerIndex": 3,
+          "explanation": "The correct term is \"cost\", which completes: \"Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through.\"."
+        },
+        {
+          "id": "q_5",
+          "questionText": "Fill in the blank: \"Types of Routing Algorithms\nRouting algorithms can be broadly ________ into two types, adaptive and\nnonadaptive routing algorithms.\"",
+          "options": [
+            "categorized",
+            "Static dependency",
+            "External factor",
+            "Systematic component"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "The correct term is \"categorized\", which completes: \"Types of Routing Algorithms\nRouting algorithms can be broadly categorized into two types, adaptive and\nnonadaptive routing algorithms.\"."
+        },
+        {
+          "id": "q_6",
+          "questionText": "Fill in the blank: \"They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, ________ known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.\"",
+          "options": [
+            "also",
+            "External factor",
+            "Systematic component",
+            "Secondary hypothesis"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "The correct term is \"also\", which completes: \"They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, also known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.\"."
+        },
+        {
+          "id": "q_7",
+          "questionText": "Fill in the blank: \"It constructs the routing\ntable depending ________ the network traffic and topology.\"",
+          "options": [
+            "Variable threshold",
+            "Secondary hypothesis",
+            "Systematic component",
+            "upon"
+          ],
+          "correctAnswerIndex": 3,
+          "explanation": "The correct term is \"upon\", which completes: \"It constructs the routing\ntable depending upon the network traffic and topology.\"."
+        },
+        {
+          "id": "q_8",
+          "questionText": "Fill in the blank: \"They try to compute the\noptimized route depending ________ the hop count, transit time and distance.\"",
+          "options": [
+            "upon",
+            "Secondary hypothesis",
+            "Variable threshold",
+            "Sequential outcome"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "The correct term is \"upon\", which completes: \"They try to compute the\noptimized route depending upon the hop count, transit time and distance.\"."
+        }
+      ],
+      "passingScore": 70,
+      "scoreHistory": [
+        {
+          "attemptId": "att_1790228059875",
+          "takenAt": "2026-09-24T05:34:19.875Z",
+          "scorePercentage": 100,
+          "correctCount": 6,
+          "totalQuestions": 6,
+          "passed": true,
+          "answers": [
+            {
+              "questionId": "q_3",
+              "questionText": "Fill in the blank: \"After a data packet leaves its source, it can ________ among the many different paths to\nreach its destination.\"",
+              "options": [
+                "choose",
+                "Static dependency",
+                "Variable threshold",
+                "Sequential outcome"
+              ],
+              "correctAnswerIndex": 0,
+              "selectedIndex": 0,
+              "isCorrect": true,
+              "explanation": "The correct term is \"choose\", which completes: \"After a data packet leaves its source, it can choose among the many different paths to\nreach its destination.\"."
+            },
+            {
+              "questionId": "q_4",
+              "questionText": "Fill in the blank: \"Routing algorithm mathematically computes the best path, i.e.\nleast ________ path that the packet can be routed through.\"",
+              "options": [
+                "Static dependency",
+                "Sequential outcome",
+                "External factor",
+                "cost"
+              ],
+              "correctAnswerIndex": 3,
+              "selectedIndex": 3,
+              "isCorrect": true,
+              "explanation": "The correct term is \"cost\", which completes: \"Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through.\"."
+            },
+            {
+              "questionId": "q_5",
+              "questionText": "Fill in the blank: \"Types of Routing Algorithms\nRouting algorithms can be broadly ________ into two types, adaptive and\nnonadaptive routing algorithms.\"",
+              "options": [
+                "categorized",
+                "Static dependency",
+                "External factor",
+                "Systematic component"
+              ],
+              "correctAnswerIndex": 0,
+              "selectedIndex": 0,
+              "isCorrect": true,
+              "explanation": "The correct term is \"categorized\", which completes: \"Types of Routing Algorithms\nRouting algorithms can be broadly categorized into two types, adaptive and\nnonadaptive routing algorithms.\"."
+            },
+            {
+              "questionId": "q_6",
+              "questionText": "Fill in the blank: \"They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, ________ known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.\"",
+              "options": [
+                "also",
+                "External factor",
+                "Systematic component",
+                "Secondary hypothesis"
+              ],
+              "correctAnswerIndex": 0,
+              "selectedIndex": 0,
+              "isCorrect": true,
+              "explanation": "The correct term is \"also\", which completes: \"They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, also known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.\"."
+            },
+            {
+              "questionId": "q_7",
+              "questionText": "Fill in the blank: \"It constructs the routing\ntable depending ________ the network traffic and topology.\"",
+              "options": [
+                "Variable threshold",
+                "Secondary hypothesis",
+                "Systematic component",
+                "upon"
+              ],
+              "correctAnswerIndex": 3,
+              "selectedIndex": 3,
+              "isCorrect": true,
+              "explanation": "The correct term is \"upon\", which completes: \"It constructs the routing\ntable depending upon the network traffic and topology.\"."
+            },
+            {
+              "questionId": "q_8",
+              "questionText": "Fill in the blank: \"They try to compute the\noptimized route depending ________ the hop count, transit time and distance.\"",
+              "options": [
+                "upon",
+                "Secondary hypothesis",
+                "Variable threshold",
+                "Sequential outcome"
+              ],
+              "correctAnswerIndex": 0,
+              "selectedIndex": 0,
+              "isCorrect": true,
+              "explanation": "The correct term is \"upon\", which completes: \"They try to compute the\noptimized route depending upon the hop count, transit time and distance.\"."
+            }
+          ]
+        },
+        {
+          "attemptId": "att_1790234311924",
+          "takenAt": "2026-09-24T07:18:31.924Z",
+          "scorePercentage": 0,
+          "correctCount": 0,
+          "totalQuestions": 6,
+          "passed": false,
+          "answers": [
+            {
+              "questionId": "q_3",
+              "questionText": "Fill in the blank: \"After a data packet leaves its source, it can ________ among the many different paths to\nreach its destination.\"",
+              "options": [
+                "choose",
+                "Static dependency",
+                "Variable threshold",
+                "Sequential outcome"
+              ],
+              "correctAnswerIndex": 0,
+              "selectedIndex": 2,
+              "isCorrect": false,
+              "explanation": "The correct term is \"choose\", which completes: \"After a data packet leaves its source, it can choose among the many different paths to\nreach its destination.\"."
+            },
+            {
+              "questionId": "q_4",
+              "questionText": "Fill in the blank: \"Routing algorithm mathematically computes the best path, i.e.\nleast ________ path that the packet can be routed through.\"",
+              "options": [
+                "Static dependency",
+                "Sequential outcome",
+                "External factor",
+                "cost"
+              ],
+              "correctAnswerIndex": 3,
+              "selectedIndex": 1,
+              "isCorrect": false,
+              "explanation": "The correct term is \"cost\", which completes: \"Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through.\"."
+            },
+            {
+              "questionId": "q_5",
+              "questionText": "Fill in the blank: \"Types of Routing Algorithms\nRouting algorithms can be broadly ________ into two types, adaptive and\nnonadaptive routing algorithms.\"",
+              "options": [
+                "categorized",
+                "Static dependency",
+                "External factor",
+                "Systematic component"
+              ],
+              "correctAnswerIndex": 0,
+              "selectedIndex": 3,
+              "isCorrect": false,
+              "explanation": "The correct term is \"categorized\", which completes: \"Types of Routing Algorithms\nRouting algorithms can be broadly categorized into two types, adaptive and\nnonadaptive routing algorithms.\"."
+            },
+            {
+              "questionId": "q_6",
+              "questionText": "Fill in the blank: \"They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, ________ known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.\"",
+              "options": [
+                "also",
+                "External factor",
+                "Systematic component",
+                "Secondary hypothesis"
+              ],
+              "correctAnswerIndex": 0,
+              "selectedIndex": 2,
+              "isCorrect": false,
+              "explanation": "The correct term is \"also\", which completes: \"They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, also known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.\"."
+            },
+            {
+              "questionId": "q_7",
+              "questionText": "Fill in the blank: \"It constructs the routing\ntable depending ________ the network traffic and topology.\"",
+              "options": [
+                "Variable threshold",
+                "Secondary hypothesis",
+                "Systematic component",
+                "upon"
+              ],
+              "correctAnswerIndex": 3,
+              "selectedIndex": 2,
+              "isCorrect": false,
+              "explanation": "The correct term is \"upon\", which completes: \"It constructs the routing\ntable depending upon the network traffic and topology.\"."
+            },
+            {
+              "questionId": "q_8",
+              "questionText": "Fill in the blank: \"They try to compute the\noptimized route depending ________ the hop count, transit time and distance.\"",
+              "options": [
+                "upon",
+                "Secondary hypothesis",
+                "Variable threshold",
+                "Sequential outcome"
+              ],
+              "correctAnswerIndex": 0,
+              "selectedIndex": 2,
+              "isCorrect": false,
+              "explanation": "The correct term is \"upon\", which completes: \"They try to compute the\noptimized route depending upon the hop count, transit time and distance.\"."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muf96phkdp4j9",
+      "createdAt": "2026-09-24T08:11:42.344Z",
+      "updatedAt": "2026-09-24T08:11:42.344Z",
+      "userId": "muf241r9lwo79",
+      "docId": "muf96phe7lmj5",
+      "docName": "test doc.txt",
+      "title": "Quiz: test doc.txt",
+      "questions": [
+        {
+          "id": "q_5",
+          "questionText": "Fill in the blank: \"Python has three main numeric ________ types:\r\n\r\n* Integer\r\n* Float\r\n* Complex\r\n\r\n---\r\n\r\n## A.\"",
+          "options": [
+            "data",
+            "Static dependency",
+            "External factor",
+            "Systematic component"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "The correct term is \"data\", which completes: \"Python has three main numeric data types:\r\n\r\n* Integer\r\n* Float\r\n* Complex\r\n\r\n---\r\n\r\n## A.\"."
+        },
+        {
+          "id": "q_6",
+          "questionText": "Fill in the blank: \"Integer (`int`)\r\n\r\nAn integer is a **________ number** without a decimal point.\"",
+          "options": [
+            "whole",
+            "External factor",
+            "Secondary hypothesis",
+            "Systematic component"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "The correct term is \"whole\", which completes: \"Integer (`int`)\r\n\r\nAn integer is a **whole number** without a decimal point.\"."
+        },
+        {
+          "id": "q_7",
+          "questionText": "Fill in the blank: \"Complex (`complex`)\r\n\r\nA complex number contains a **________ part and an imaginary part**.\"",
+          "options": [
+            "real",
+            "Systematic component",
+            "Variable threshold",
+            "Secondary hypothesis"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "The correct term is \"real\", which completes: \"Complex (`complex`)\r\n\r\nA complex number contains a **real part and an imaginary part**.\"."
+        },
+        {
+          "id": "q_17",
+          "questionText": "Fill in the blank: \"Range Data Type (`range`)\r\n\r\nThe `range()` ________ generates a sequence of numbers.\"",
+          "options": [
+            "Systematic component",
+            "External factor",
+            "Static dependency",
+            "function"
+          ],
+          "correctAnswerIndex": 3,
+          "explanation": "The correct term is \"function\", which completes: \"Range Data Type (`range`)\r\n\r\nThe `range()` function generates a sequence of numbers.\"."
+        },
+        {
+          "id": "q_20",
+          "questionText": "Fill in the blank: \"Dictionary Data Type (`dict`)\r\n\r\nA dictionary ________ data in **key-value pairs**.\"",
+          "options": [
+            "Sequential outcome",
+            "Secondary hypothesis",
+            "stores",
+            "Variable threshold"
+          ],
+          "correctAnswerIndex": 2,
+          "explanation": "The correct term is \"stores\", which completes: \"Dictionary Data Type (`dict`)\r\n\r\nA dictionary stores data in **key-value pairs**.\"."
+        },
+        {
+          "id": "q_22",
+          "questionText": "Fill in the blank: \"It represents **no value or absence of a value**.\r\n\r\n### Example:\r\n\r\n```python\r\nx = None\r\n\r\nprint(x)\r\nprint(type(x))\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\nNone\r\n<class 'NoneType'>\r\n```\r\n\r\nIt is commonly used when a variable currently has no value.\r\n\r\n---\r\n\r\n# 14.\"",
+          "options": [
+            "Sequential outcome",
+            "External factor",
+            "NoneTypeIt",
+            "Static dependency"
+          ],
+          "correctAnswerIndex": 2,
+          "explanation": "The correct term is \"NoneTypeIt\", which completes: \"It represents **no value or absence of a value**.\r\n\r\n### Example:\r\n\r\n```python\r\nx = None\r\n\r\nprint(x)\r\nprint(type(x))\r\n```\r\n\r\n**Output:**\r\n\r\n```text\r\nNone\r\n<class 'NoneType'>\r\n```\r\n\r\nIt is commonly used when a variable currently has no value.\r\n\r\n---\r\n\r\n# 14.\"."
+        }
+      ],
+      "passingScore": 70,
+      "scoreHistory": []
+    },
+    {
+      "id": "mufu43hsusqix",
+      "createdAt": "2026-09-24T17:57:32.464Z",
+      "updatedAt": "2026-09-24T17:59:13.983Z",
+      "userId": "mufu2bdy3ix2o",
+      "docId": "mufu43hm8o7l3",
+      "docName": "Routing Algorithm in Computer Networks.pdf",
+      "title": "Quiz: Routing Algorithm in Computer Networks.pdf",
+      "questions": [
+        {
+          "id": "q_3",
+          "questionText": "Fill in the blank: \"After a data packet leaves its source, it can ________ among the many different paths to\nreach its destination.\"",
+          "options": [
+            "choose",
+            "Static dependency",
+            "Variable threshold",
+            "Sequential outcome"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "The correct term is \"choose\", which completes: \"After a data packet leaves its source, it can choose among the many different paths to\nreach its destination.\"."
+        },
+        {
+          "id": "q_4",
+          "questionText": "Fill in the blank: \"Routing algorithm mathematically computes the best path, i.e.\nleast ________ path that the packet can be routed through.\"",
+          "options": [
+            "External factor",
+            "Static dependency",
+            "Sequential outcome",
+            "cost"
+          ],
+          "correctAnswerIndex": 3,
+          "explanation": "The correct term is \"cost\", which completes: \"Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through.\"."
+        },
+        {
+          "id": "q_5",
+          "questionText": "Fill in the blank: \"Types of Routing Algorithms\nRouting algorithms can be broadly ________ into two types, adaptive and\nnonadaptive routing algorithms.\"",
+          "options": [
+            "External factor",
+            "Static dependency",
+            "categorized",
+            "Systematic component"
+          ],
+          "correctAnswerIndex": 2,
+          "explanation": "The correct term is \"categorized\", which completes: \"Types of Routing Algorithms\nRouting algorithms can be broadly categorized into two types, adaptive and\nnonadaptive routing algorithms.\"."
+        },
+        {
+          "id": "q_6",
+          "questionText": "Fill in the blank: \"They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, ________ known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.\"",
+          "options": [
+            "also",
+            "External factor",
+            "Systematic component",
+            "Secondary hypothesis"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "The correct term is \"also\", which completes: \"They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, also known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.\"."
+        },
+        {
+          "id": "q_7",
+          "questionText": "Fill in the blank: \"It constructs the routing\ntable depending ________ the network traffic and topology.\"",
+          "options": [
+            "upon",
+            "Secondary hypothesis",
+            "Variable threshold",
+            "Systematic component"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "The correct term is \"upon\", which completes: \"It constructs the routing\ntable depending upon the network traffic and topology.\"."
+        },
+        {
+          "id": "q_8",
+          "questionText": "Fill in the blank: \"They try to compute the\noptimized route depending ________ the hop count, transit time and distance.\"",
+          "options": [
+            "Variable threshold",
+            "Secondary hypothesis",
+            "Sequential outcome",
+            "upon"
+          ],
+          "correctAnswerIndex": 3,
+          "explanation": "The correct term is \"upon\", which completes: \"They try to compute the\noptimized route depending upon the hop count, transit time and distance.\"."
+        }
+      ],
+      "passingScore": 70,
+      "scoreHistory": [
+        {
+          "attemptId": "att_1790272753983",
+          "takenAt": "2026-09-24T17:59:13.983Z",
+          "scorePercentage": 100,
+          "correctCount": 6,
+          "totalQuestions": 6,
+          "passed": true,
+          "answers": [
+            {
+              "questionId": "q_3",
+              "questionText": "Fill in the blank: \"After a data packet leaves its source, it can ________ among the many different paths to\nreach its destination.\"",
+              "options": [
+                "choose",
+                "Static dependency",
+                "Variable threshold",
+                "Sequential outcome"
+              ],
+              "correctAnswerIndex": 0,
+              "selectedIndex": 0,
+              "isCorrect": true,
+              "explanation": "The correct term is \"choose\", which completes: \"After a data packet leaves its source, it can choose among the many different paths to\nreach its destination.\"."
+            },
+            {
+              "questionId": "q_4",
+              "questionText": "Fill in the blank: \"Routing algorithm mathematically computes the best path, i.e.\nleast ________ path that the packet can be routed through.\"",
+              "options": [
+                "External factor",
+                "Static dependency",
+                "Sequential outcome",
+                "cost"
+              ],
+              "correctAnswerIndex": 3,
+              "selectedIndex": 3,
+              "isCorrect": true,
+              "explanation": "The correct term is \"cost\", which completes: \"Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through.\"."
+            },
+            {
+              "questionId": "q_5",
+              "questionText": "Fill in the blank: \"Types of Routing Algorithms\nRouting algorithms can be broadly ________ into two types, adaptive and\nnonadaptive routing algorithms.\"",
+              "options": [
+                "External factor",
+                "Static dependency",
+                "categorized",
+                "Systematic component"
+              ],
+              "correctAnswerIndex": 2,
+              "selectedIndex": 2,
+              "isCorrect": true,
+              "explanation": "The correct term is \"categorized\", which completes: \"Types of Routing Algorithms\nRouting algorithms can be broadly categorized into two types, adaptive and\nnonadaptive routing algorithms.\"."
+            },
+            {
+              "questionId": "q_6",
+              "questionText": "Fill in the blank: \"They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, ________ known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.\"",
+              "options": [
+                "also",
+                "External factor",
+                "Systematic component",
+                "Secondary hypothesis"
+              ],
+              "correctAnswerIndex": 0,
+              "selectedIndex": 0,
+              "isCorrect": true,
+              "explanation": "The correct term is \"also\", which completes: \"They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, also known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.\"."
+            },
+            {
+              "questionId": "q_7",
+              "questionText": "Fill in the blank: \"It constructs the routing\ntable depending ________ the network traffic and topology.\"",
+              "options": [
+                "upon",
+                "Secondary hypothesis",
+                "Variable threshold",
+                "Systematic component"
+              ],
+              "correctAnswerIndex": 0,
+              "selectedIndex": 0,
+              "isCorrect": true,
+              "explanation": "The correct term is \"upon\", which completes: \"It constructs the routing\ntable depending upon the network traffic and topology.\"."
+            },
+            {
+              "questionId": "q_8",
+              "questionText": "Fill in the blank: \"They try to compute the\noptimized route depending ________ the hop count, transit time and distance.\"",
+              "options": [
+                "Variable threshold",
+                "Secondary hypothesis",
+                "Sequential outcome",
+                "upon"
+              ],
+              "correctAnswerIndex": 3,
+              "selectedIndex": 3,
+              "isCorrect": true,
+              "explanation": "The correct term is \"upon\", which completes: \"They try to compute the\noptimized route depending upon the hop count, transit time and distance.\"."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mugicg22mwowf",
+      "createdAt": "2026-09-25T05:15:52.778Z",
+      "updatedAt": "2026-09-25T05:16:54.318Z",
+      "userId": "mugi3y7hr3u8w",
+      "docId": "mugicg1t3eqln",
+      "docName": "Routing Algorithm in Computer Networks.pdf",
+      "title": "Quiz: Routing Algorithm in Computer Networks.pdf",
+      "questions": [
+        {
+          "id": "q_3",
+          "questionText": "Fill in the blank: \"After a data packet leaves its source, it can ________ among the many different paths to\nreach its destination.\"",
+          "options": [
+            "Static dependency",
+            "choose",
+            "Variable threshold",
+            "Sequential outcome"
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "The correct term is \"choose\", which completes: \"After a data packet leaves its source, it can choose among the many different paths to\nreach its destination.\"."
+        },
+        {
+          "id": "q_4",
+          "questionText": "Fill in the blank: \"Routing algorithm mathematically computes the best path, i.e.\nleast ________ path that the packet can be routed through.\"",
+          "options": [
+            "External factor",
+            "Sequential outcome",
+            "cost",
+            "Static dependency"
+          ],
+          "correctAnswerIndex": 2,
+          "explanation": "The correct term is \"cost\", which completes: \"Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through.\"."
+        },
+        {
+          "id": "q_5",
+          "questionText": "Fill in the blank: \"Types of Routing Algorithms\nRouting algorithms can be broadly ________ into two types, adaptive and\nnonadaptive routing algorithms.\"",
+          "options": [
+            "categorized",
+            "Static dependency",
+            "Systematic component",
+            "External factor"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "The correct term is \"categorized\", which completes: \"Types of Routing Algorithms\nRouting algorithms can be broadly categorized into two types, adaptive and\nnonadaptive routing algorithms.\"."
+        },
+        {
+          "id": "q_6",
+          "questionText": "Fill in the blank: \"They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, ________ known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.\"",
+          "options": [
+            "also",
+            "External factor",
+            "Secondary hypothesis",
+            "Systematic component"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "The correct term is \"also\", which completes: \"They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, also known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.\"."
+        },
+        {
+          "id": "q_7",
+          "questionText": "Fill in the blank: \"It constructs the routing\ntable depending ________ the network traffic and topology.\"",
+          "options": [
+            "Variable threshold",
+            "Secondary hypothesis",
+            "Systematic component",
+            "upon"
+          ],
+          "correctAnswerIndex": 3,
+          "explanation": "The correct term is \"upon\", which completes: \"It constructs the routing\ntable depending upon the network traffic and topology.\"."
+        },
+        {
+          "id": "q_8",
+          "questionText": "Fill in the blank: \"They try to compute the\noptimized route depending ________ the hop count, transit time and distance.\"",
+          "options": [
+            "Sequential outcome",
+            "upon",
+            "Variable threshold",
+            "Secondary hypothesis"
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "The correct term is \"upon\", which completes: \"They try to compute the\noptimized route depending upon the hop count, transit time and distance.\"."
+        }
+      ],
+      "passingScore": 70,
+      "scoreHistory": [
+        {
+          "attemptId": "att_1790313414318",
+          "takenAt": "2026-09-25T05:16:54.318Z",
+          "scorePercentage": 33,
+          "correctCount": 2,
+          "totalQuestions": 6,
+          "passed": false,
+          "answers": [
+            {
+              "questionId": "q_3",
+              "questionText": "Fill in the blank: \"After a data packet leaves its source, it can ________ among the many different paths to\nreach its destination.\"",
+              "options": [
+                "Static dependency",
+                "choose",
+                "Variable threshold",
+                "Sequential outcome"
+              ],
+              "correctAnswerIndex": 1,
+              "selectedIndex": 1,
+              "isCorrect": true,
+              "explanation": "The correct term is \"choose\", which completes: \"After a data packet leaves its source, it can choose among the many different paths to\nreach its destination.\"."
+            },
+            {
+              "questionId": "q_4",
+              "questionText": "Fill in the blank: \"Routing algorithm mathematically computes the best path, i.e.\nleast ________ path that the packet can be routed through.\"",
+              "options": [
+                "External factor",
+                "Sequential outcome",
+                "cost",
+                "Static dependency"
+              ],
+              "correctAnswerIndex": 2,
+              "selectedIndex": 1,
+              "isCorrect": false,
+              "explanation": "The correct term is \"cost\", which completes: \"Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through.\"."
+            },
+            {
+              "questionId": "q_5",
+              "questionText": "Fill in the blank: \"Types of Routing Algorithms\nRouting algorithms can be broadly ________ into two types, adaptive and\nnonadaptive routing algorithms.\"",
+              "options": [
+                "categorized",
+                "Static dependency",
+                "Systematic component",
+                "External factor"
+              ],
+              "correctAnswerIndex": 0,
+              "selectedIndex": 3,
+              "isCorrect": false,
+              "explanation": "The correct term is \"categorized\", which completes: \"Types of Routing Algorithms\nRouting algorithms can be broadly categorized into two types, adaptive and\nnonadaptive routing algorithms.\"."
+            },
+            {
+              "questionId": "q_6",
+              "questionText": "Fill in the blank: \"They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, ________ known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.\"",
+              "options": [
+                "also",
+                "External factor",
+                "Secondary hypothesis",
+                "Systematic component"
+              ],
+              "correctAnswerIndex": 0,
+              "selectedIndex": 2,
+              "isCorrect": false,
+              "explanation": "The correct term is \"also\", which completes: \"They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, also known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.\"."
+            },
+            {
+              "questionId": "q_7",
+              "questionText": "Fill in the blank: \"It constructs the routing\ntable depending ________ the network traffic and topology.\"",
+              "options": [
+                "Variable threshold",
+                "Secondary hypothesis",
+                "Systematic component",
+                "upon"
+              ],
+              "correctAnswerIndex": 3,
+              "selectedIndex": 1,
+              "isCorrect": false,
+              "explanation": "The correct term is \"upon\", which completes: \"It constructs the routing\ntable depending upon the network traffic and topology.\"."
+            },
+            {
+              "questionId": "q_8",
+              "questionText": "Fill in the blank: \"They try to compute the\noptimized route depending ________ the hop count, transit time and distance.\"",
+              "options": [
+                "Sequential outcome",
+                "upon",
+                "Variable threshold",
+                "Secondary hypothesis"
+              ],
+              "correctAnswerIndex": 1,
+              "selectedIndex": 1,
+              "isCorrect": true,
+              "explanation": "The correct term is \"upon\", which completes: \"They try to compute the\noptimized route depending upon the hop count, transit time and distance.\"."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "muf356f6fsg2a",
+      "createdAt": "2026-09-24T05:22:33.282Z",
+      "updatedAt": "2026-09-24T07:18:08.899Z",
+      "userId": "muf241r9lwo79",
+      "docId": "muf356f4079qu",
+      "docName": "Routing Algorithm in Computer Networks.pdf",
+      "title": "Flashcards: Routing Algorithm in Computer Networks.pdf",
+      "cards": [
+        {
+          "id": "fc_9",
+          "question": "What is So, it?",
+          "answer": "Also\nknown as global routing algorithm.",
+          "hint": "Think about the foundational definition in Routing Algorithm in Computer Networks.pdf",
+          "difficulty": "medium",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_11",
+          "question": "What is Distributed algorithm This?",
+          "answer": "A decentralized algorithm that computes the\nleast-cost path between source and destination iteratively in a distributed\nmanner.",
+          "hint": "Think about the foundational definition in Routing Algorithm in Computer Networks.pdf",
+          "difficulty": "medium",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_13",
+          "question": "What is The\nstatic routing table?",
+          "answer": "Constructed based upon the routing information stored in the\nrouters when the network is booted up.",
+          "hint": "Think about the foundational definition in Routing Algorithm in Computer Networks.pdf",
+          "difficulty": "hard",
+          "status": "review"
+        },
+        {
+          "id": "fc_16",
+          "question": "What is Random walks This?",
+          "answer": "A probabilistic algorithm where a data packet is sent by\nthe router to any one of its neighbours randomly.\n01/09/2026, 18:07Routing Algorithm in Computer Networks\nhttps://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+          "hint": "Think about the foundational definition in Routing Algorithm in Computer Networks.pdf",
+          "difficulty": "hard",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_fb_1",
+          "question": "What is the primary topic of Routing Algorithm in Computer Networks.pdf?",
+          "answer": "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route...",
+          "hint": "Refer to the intro overview.",
+          "difficulty": "easy",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_fb_2",
+          "question": "What are the core principles described in Routing Algorithm in Computer Networks.pdf?",
+          "answer": "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route or path to transfer data\npackets from source to the destination. They help in directing Internet traffic efficiently.",
+          "hint": "Focus on main ideas.",
+          "difficulty": "medium",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_fb_3",
+          "question": "How does Routing Algorithm in Computer Networks.pdf structure its main argument or data?",
+          "answer": "After a data packet leaves its source, it can choose among the many different paths to\nreach its destination. Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through.",
+          "hint": "Look at document structure.",
+          "difficulty": "medium",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_fb_4",
+          "question": "What practical outcome or takeaways are highlighted?",
+          "answer": "Types of Routing Algorithms\nRouting algorithms can be broadly categorized into two types, adaptive and\nnonadaptive routing algorithms. They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, also known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.",
+          "hint": "Review key takeaways.",
+          "difficulty": "hard",
+          "status": "mastered"
+        }
+      ]
+    },
+    {
+      "id": "muf96phh3ylxn",
+      "createdAt": "2026-09-24T08:11:42.341Z",
+      "updatedAt": "2026-09-24T08:13:09.234Z",
+      "userId": "muf241r9lwo79",
+      "docId": "muf96phe7lmj5",
+      "docName": "test doc.txt",
+      "title": "Flashcards: test doc.txt",
+      "cards": [
+        {
+          "id": "fc_6",
+          "question": "What is Integer (`int`)\r\n\r\nAn integer?",
+          "answer": "A **whole number** without a decimal point.",
+          "hint": "Think about the foundational definition in test doc.txt",
+          "difficulty": "easy",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_8",
+          "question": "What is String Data Type (`str`)\r\n\r\nA string?",
+          "answer": "A **sequence of characters**.",
+          "hint": "Think about the foundational definition in test doc.txt",
+          "difficulty": "easy",
+          "status": "unseen"
+        },
+        {
+          "id": "fc_9",
+          "question": "What is List Data Type (`list`)\r\n\r\nA list?",
+          "answer": "An **ordered and changeable collection of elements**.",
+          "hint": "Think about the foundational definition in test doc.txt",
+          "difficulty": "medium",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_11",
+          "question": "What is Tuple Data Type (`tuple`)\r\n\r\nA tuple?",
+          "answer": "An **ordered and unchangeable collection of elements**.",
+          "hint": "Think about the foundational definition in test doc.txt",
+          "difficulty": "medium",
+          "status": "unseen"
+        },
+        {
+          "id": "fc_18",
+          "question": "What is Set Data Type (`set`)\r\n\r\nA set?",
+          "answer": "An **unordered collection of unique elements**.",
+          "hint": "Think about the foundational definition in test doc.txt",
+          "difficulty": "easy",
+          "status": "unseen"
+        },
+        {
+          "id": "fc_19",
+          "question": "What is Frozen Set (`frozenset`)\r\n\r\nA `frozenset`?",
+          "answer": "An **immutable version of a set**.\r\n\r\n### Example:\r\n\r\n```python\r\nnumbers = frozenset([10, 20, 30])\r\n\r\nprint(numbers)\r\n```\r\n\r\nUnlike a normal set, a frozenset cannot be modified.\r\n\r\n---\r\n\r\n# 11.",
+          "hint": "Think about the foundational definition in test doc.txt",
+          "difficulty": "hard",
+          "status": "unseen"
+        },
+        {
+          "id": "fc_23",
+          "question": "What is Mutable and Immutable Data Types\r\n\r\nThis?",
+          "answer": "An important concept in Python.\r\n\r\n### Mutable\r\n\r\nA mutable object can be changed after it is created.",
+          "hint": "Think about the foundational definition in test doc.txt",
+          "difficulty": "medium",
+          "status": "unseen"
+        },
+        {
+          "id": "fc_33",
+          "question": "What is Understanding data types?",
+          "answer": "Essential for writing correct and efficient Python programs.",
+          "hint": "Think about the foundational definition in test doc.txt",
+          "difficulty": "medium",
+          "status": "unseen"
+        }
+      ]
+    },
+    {
+      "id": "mufu43hpqowfz",
+      "createdAt": "2026-09-24T17:57:32.461Z",
+      "updatedAt": "2026-09-24T17:57:59.957Z",
+      "userId": "mufu2bdy3ix2o",
+      "docId": "mufu43hm8o7l3",
+      "docName": "Routing Algorithm in Computer Networks.pdf",
+      "title": "Flashcards: Routing Algorithm in Computer Networks.pdf",
+      "cards": [
+        {
+          "id": "fc_9",
+          "question": "What is So, it?",
+          "answer": "Also\nknown as global routing algorithm.",
+          "hint": "Think about the foundational definition in Routing Algorithm in Computer Networks.pdf",
+          "difficulty": "medium",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_11",
+          "question": "What is Distributed algorithm This?",
+          "answer": "A decentralized algorithm that computes the\nleast-cost path between source and destination iteratively in a distributed\nmanner.",
+          "hint": "Think about the foundational definition in Routing Algorithm in Computer Networks.pdf",
+          "difficulty": "medium",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_13",
+          "question": "What is The\nstatic routing table?",
+          "answer": "Constructed based upon the routing information stored in the\nrouters when the network is booted up.",
+          "hint": "Think about the foundational definition in Routing Algorithm in Computer Networks.pdf",
+          "difficulty": "hard",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_16",
+          "question": "What is Random walks This?",
+          "answer": "A probabilistic algorithm where a data packet is sent by\nthe router to any one of its neighbours randomly.\n01/09/2026, 18:07Routing Algorithm in Computer Networks\nhttps://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+          "hint": "Think about the foundational definition in Routing Algorithm in Computer Networks.pdf",
+          "difficulty": "hard",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_fb_1",
+          "question": "What is the primary topic of Routing Algorithm in Computer Networks.pdf?",
+          "answer": "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route...",
+          "hint": "Refer to the intro overview.",
+          "difficulty": "easy",
+          "status": "unseen"
+        },
+        {
+          "id": "fc_fb_2",
+          "question": "What are the core principles described in Routing Algorithm in Computer Networks.pdf?",
+          "answer": "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route or path to transfer data\npackets from source to the destination. They help in directing Internet traffic efficiently.",
+          "hint": "Focus on main ideas.",
+          "difficulty": "medium",
+          "status": "unseen"
+        },
+        {
+          "id": "fc_fb_3",
+          "question": "How does Routing Algorithm in Computer Networks.pdf structure its main argument or data?",
+          "answer": "After a data packet leaves its source, it can choose among the many different paths to\nreach its destination. Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through.",
+          "hint": "Look at document structure.",
+          "difficulty": "medium",
+          "status": "unseen"
+        },
+        {
+          "id": "fc_fb_4",
+          "question": "What practical outcome or takeaways are highlighted?",
+          "answer": "Types of Routing Algorithms\nRouting algorithms can be broadly categorized into two types, adaptive and\nnonadaptive routing algorithms. They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, also known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.",
+          "hint": "Review key takeaways.",
+          "difficulty": "hard",
+          "status": "unseen"
+        }
+      ]
+    },
+    {
+      "id": "mugicg1yfmjdw",
+      "createdAt": "2026-09-25T05:15:52.774Z",
+      "updatedAt": "2026-09-25T05:16:31.366Z",
+      "userId": "mugi3y7hr3u8w",
+      "docId": "mugicg1t3eqln",
+      "docName": "Routing Algorithm in Computer Networks.pdf",
+      "title": "Flashcards: Routing Algorithm in Computer Networks.pdf",
+      "cards": [
+        {
+          "id": "fc_9",
+          "question": "What is So, it?",
+          "answer": "Also\nknown as global routing algorithm.",
+          "hint": "Think about the foundational definition in Routing Algorithm in Computer Networks.pdf",
+          "difficulty": "medium",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_11",
+          "question": "What is Distributed algorithm This?",
+          "answer": "A decentralized algorithm that computes the\nleast-cost path between source and destination iteratively in a distributed\nmanner.",
+          "hint": "Think about the foundational definition in Routing Algorithm in Computer Networks.pdf",
+          "difficulty": "medium",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_13",
+          "question": "What is The\nstatic routing table?",
+          "answer": "Constructed based upon the routing information stored in the\nrouters when the network is booted up.",
+          "hint": "Think about the foundational definition in Routing Algorithm in Computer Networks.pdf",
+          "difficulty": "hard",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_16",
+          "question": "What is Random walks This?",
+          "answer": "A probabilistic algorithm where a data packet is sent by\nthe router to any one of its neighbours randomly.\n01/09/2026, 18:07Routing Algorithm in Computer Networks\nhttps://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+          "hint": "Think about the foundational definition in Routing Algorithm in Computer Networks.pdf",
+          "difficulty": "hard",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_fb_1",
+          "question": "What is the primary topic of Routing Algorithm in Computer Networks.pdf?",
+          "answer": "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route...",
+          "hint": "Refer to the intro overview.",
+          "difficulty": "easy",
+          "status": "mastered"
+        },
+        {
+          "id": "fc_fb_2",
+          "question": "What are the core principles described in Routing Algorithm in Computer Networks.pdf?",
+          "answer": "Home  Data_communication_computer_network  Routing Algorithm in Computer Networks\nRouting Algorithm in Computer Networks\nA routing algorithm is a procedure that lays down the route or path to transfer data\npackets from source to the destination. They help in directing Internet traffic efficiently.",
+          "hint": "Focus on main ideas.",
+          "difficulty": "medium",
+          "status": "unseen"
+        },
+        {
+          "id": "fc_fb_3",
+          "question": "How does Routing Algorithm in Computer Networks.pdf structure its main argument or data?",
+          "answer": "After a data packet leaves its source, it can choose among the many different paths to\nreach its destination. Routing algorithm mathematically computes the best path, i.e.\nleast cost path that the packet can be routed through.",
+          "hint": "Look at document structure.",
+          "difficulty": "medium",
+          "status": "unseen"
+        },
+        {
+          "id": "fc_fb_4",
+          "question": "What practical outcome or takeaways are highlighted?",
+          "answer": "Types of Routing Algorithms\nRouting algorithms can be broadly categorized into two types, adaptive and\nnonadaptive routing algorithms. They can be further categorized as shown in the\nfollowing diagram\nAdaptive Routing Algorithms\nAdaptive routing algorithms, also known as dynamic routing algorithms, makes routing\ndecisions dynamically depending on the network conditions.",
+          "hint": "Review key takeaways.",
+          "difficulty": "hard",
+          "status": "unseen"
+        }
+      ]
+    }
+  ],
+  "study_plans": [
+    {
+      "id": "muf356fbpokna",
+      "createdAt": "2026-09-24T05:22:33.287Z",
+      "updatedAt": "2026-09-24T07:12:13.619Z",
+      "userId": "muf241r9lwo79",
+      "docId": "muf356f4079qu",
+      "docName": "Routing Algorithm in Computer Networks.pdf",
+      "title": "Mastery Plan for Routing Algorithm in Computer Networks.pdf",
+      "targetDays": 7,
+      "dailyHours": 2,
+      "totalEstimatedHours": "14.0",
+      "schedule": [
+        {
+          "day": 1,
+          "title": "Day 1: https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2",
+          "focusArea": "https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_1_1",
+              "text": "Read & highlight section on https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2",
+              "completed": true,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_1_2",
+              "text": "Review generated flashcards for https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_1_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 2,
+          "title": "Day 2: https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+          "focusArea": "https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_2_1",
+              "text": "Read & highlight section on https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+              "completed": true,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_2_2",
+              "text": "Review generated flashcards for https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_2_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 3,
+          "title": "Day 3: Section 3: Deep Dive & Mastery",
+          "focusArea": "Section 3: Deep Dive & Mastery",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_3_1",
+              "text": "Read & highlight section on Section 3: Deep Dive & Mastery",
+              "completed": true,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_3_2",
+              "text": "Review generated flashcards for Section 3: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_3_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 4,
+          "title": "Day 4: Section 4: Deep Dive & Mastery",
+          "focusArea": "Section 4: Deep Dive & Mastery",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_4_1",
+              "text": "Read & highlight section on Section 4: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_4_2",
+              "text": "Review generated flashcards for Section 4: Deep Dive & Mastery",
+              "completed": true,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_4_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 5,
+          "title": "Day 5: Section 5: Deep Dive & Mastery",
+          "focusArea": "Section 5: Deep Dive & Mastery",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_5_1",
+              "text": "Read & highlight section on Section 5: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_5_2",
+              "text": "Review generated flashcards for Section 5: Deep Dive & Mastery",
+              "completed": true,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_5_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 6,
+          "title": "Day 6: Section 6: Deep Dive & Mastery",
+          "focusArea": "Section 6: Deep Dive & Mastery",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_6_1",
+              "text": "Read & highlight section on Section 6: Deep Dive & Mastery",
+              "completed": true,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_6_2",
+              "text": "Review generated flashcards for Section 6: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_6_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 7,
+          "title": "Day 7: Section 7: Deep Dive & Mastery",
+          "focusArea": "Section 7: Deep Dive & Mastery",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_7_1",
+              "text": "Read & highlight section on Section 7: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_7_2",
+              "text": "Review generated flashcards for Section 7: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_7_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": true,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "muf96phn6oacw",
+      "createdAt": "2026-09-24T08:11:42.347Z",
+      "updatedAt": "2026-09-24T08:13:46.736Z",
+      "userId": "muf241r9lwo79",
+      "docId": "muf96phe7lmj5",
+      "docName": "test doc.txt",
+      "title": "Mastery Plan for test doc.txt",
+      "targetDays": 7,
+      "dailyHours": 2,
+      "totalEstimatedHours": "14.0",
+      "schedule": [
+        {
+          "day": 1,
+          "title": "Day 1: Python Data Types – Detailed Notes & Introduction & Example: & Here: & Types of Data Types in Python & Main categories: & **Numeric Data Types** & **Boolean Data Type** & **Sequence Data Types** & **Set Data Type** & **Mapping Data Type** & **Binary Data Types** & **None Data Type** & Numeric Data Types & Python has three main numeric data types: & A. Integer (`int`)",
+          "focusArea": "Python Data Types – Detailed Notes & Introduction & Example: & Here: & Types of Data Types in Python & Main categories: & **Numeric Data Types** & **Boolean Data Type** & **Sequence Data Types** & **Set Data Type** & **Mapping Data Type** & **Binary Data Types** & **None Data Type** & Numeric Data Types & Python has three main numeric data types: & A. Integer (`int`)",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_1_1",
+              "text": "Read & highlight section on Python Data Types – Detailed Notes & Introduction & Example: & Here: & Types of Data Types in Python & Main categories: & **Numeric Data Types** & **Boolean Data Type** & **Sequence Data Types** & **Set Data Type** & **Mapping Data Type** & **Binary Data Types** & **None Data Type** & Numeric Data Types & Python has three main numeric data types: & A. Integer (`int`)",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_1_2",
+              "text": "Review generated flashcards for Python Data Types – Detailed Notes & Introduction & Example: & Here: & Types of Data Types in Python & Main categories: & **Numeric Data Types** & **Boolean Data Type** & **Sequence Data Types** & **Set Data Type** & **Mapping Data Type** & **Binary Data Types** & **None Data Type** & Numeric Data Types & Python has three main numeric data types: & A. Integer (`int`)",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_1_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 2,
+          "title": "Day 2: Example: & Example: & Important points: & B. Float (`float`) & Example: & Example: & C. Complex (`complex`) & Syntax: & Example: & Example: & 0 & 0 & Boolean Data Type (`bool`) & Boolean data type has only two possible values: & Example: & Example:",
+          "focusArea": "Example: & Example: & Important points: & B. Float (`float`) & Example: & Example: & C. Complex (`complex`) & Syntax: & Example: & Example: & 0 & 0 & Boolean Data Type (`bool`) & Boolean data type has only two possible values: & Example: & Example:",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_2_1",
+              "text": "Read & highlight section on Example: & Example: & Important points: & B. Float (`float`) & Example: & Example: & C. Complex (`complex`) & Syntax: & Example: & Example: & 0 & 0 & Boolean Data Type (`bool`) & Boolean data type has only two possible values: & Example: & Example:",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_2_2",
+              "text": "Review generated flashcards for Example: & Example: & Important points: & B. Float (`float`) & Example: & Example: & C. Complex (`complex`) & Syntax: & Example: & Example: & 0 & 0 & Boolean Data Type (`bool`) & Boolean data type has only two possible values: & Example: & Example:",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_2_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 3,
+          "title": "Day 3: Common uses: & Example: & else: & String Data Type (`str`) & Strings are written inside: & Example: & String with multiple lines: & String operations & Concatenation & Repetition & Indexing & List Data Type (`list`) & Example: & Different data types in a list: & Accessing list elements: & Modifying a list:",
+          "focusArea": "Common uses: & Example: & else: & String Data Type (`str`) & Strings are written inside: & Example: & String with multiple lines: & String operations & Concatenation & Repetition & Indexing & List Data Type (`list`) & Example: & Different data types in a list: & Accessing list elements: & Modifying a list:",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_3_1",
+              "text": "Read & highlight section on Common uses: & Example: & else: & String Data Type (`str`) & Strings are written inside: & Example: & String with multiple lines: & String operations & Concatenation & Repetition & Indexing & List Data Type (`list`) & Example: & Different data types in a list: & Accessing list elements: & Modifying a list:",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_3_2",
+              "text": "Review generated flashcards for Common uses: & Example: & else: & String Data Type (`str`) & Strings are written inside: & Example: & String with multiple lines: & String operations & Concatenation & Repetition & Indexing & List Data Type (`list`) & Example: & Different data types in a list: & Accessing list elements: & Modifying a list:",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_3_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 4,
+          "title": "Day 4: Common list methods: & Example: & Important point: & Tuple Data Type (`tuple`) & Example: & Accessing elements: & Tuple with different data types: & Important point: & numbers[0] = 100 & List vs Tuple & Range Data Type (`range`) & Example: & Syntax: & Example: & Set Data Type (`set`) & Example:",
+          "focusArea": "Common list methods: & Example: & Important point: & Tuple Data Type (`tuple`) & Example: & Accessing elements: & Tuple with different data types: & Important point: & numbers[0] = 100 & List vs Tuple & Range Data Type (`range`) & Example: & Syntax: & Example: & Set Data Type (`set`) & Example:",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_4_1",
+              "text": "Read & highlight section on Common list methods: & Example: & Important point: & Tuple Data Type (`tuple`) & Example: & Accessing elements: & Tuple with different data types: & Important point: & numbers[0] = 100 & List vs Tuple & Range Data Type (`range`) & Example: & Syntax: & Example: & Set Data Type (`set`) & Example:",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_4_2",
+              "text": "Review generated flashcards for Common list methods: & Example: & Important point: & Tuple Data Type (`tuple`) & Example: & Accessing elements: & Tuple with different data types: & Important point: & numbers[0] = 100 & List vs Tuple & Range Data Type (`range`) & Example: & Syntax: & Example: & Set Data Type (`set`) & Example:",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_4_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 5,
+          "title": "Day 5: Duplicate values & Example: & Important characteristics: & Common set methods: & Frozen Set (`frozenset`) & Example: & Dictionary Data Type (`dict`) & Syntax: & Example: & Here: & Accessing values: & Modifying values: & Adding a new item: & Common dictionary methods: & Binary Data Types & Python provides three binary data types:",
+          "focusArea": "Duplicate values & Example: & Important characteristics: & Common set methods: & Frozen Set (`frozenset`) & Example: & Dictionary Data Type (`dict`) & Syntax: & Example: & Here: & Accessing values: & Modifying values: & Adding a new item: & Common dictionary methods: & Binary Data Types & Python provides three binary data types:",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_5_1",
+              "text": "Read & highlight section on Duplicate values & Example: & Important characteristics: & Common set methods: & Frozen Set (`frozenset`) & Example: & Dictionary Data Type (`dict`) & Syntax: & Example: & Here: & Accessing values: & Modifying values: & Adding a new item: & Common dictionary methods: & Binary Data Types & Python provides three binary data types:",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_5_2",
+              "text": "Review generated flashcards for Duplicate values & Example: & Important characteristics: & Common set methods: & Frozen Set (`frozenset`) & Example: & Dictionary Data Type (`dict`) & Syntax: & Example: & Here: & Accessing values: & Modifying values: & Adding a new item: & Common dictionary methods: & Binary Data Types & Python provides three binary data types:",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_5_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 6,
+          "title": "Day 6: `bytes` & `bytearray` & `memoryview` & None Type (`NoneType`) & Example: & Mutable and Immutable Data Types & Mutable & Examples: & Immutable & Examples: & Simple table: & Type Checking & Example: & Type Conversion & Integer to Float & Output:",
+          "focusArea": "`bytes` & `bytearray` & `memoryview` & None Type (`NoneType`) & Example: & Mutable and Immutable Data Types & Mutable & Examples: & Immutable & Examples: & Simple table: & Type Checking & Example: & Type Conversion & Integer to Float & Output:",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_6_1",
+              "text": "Read & highlight section on `bytes` & `bytearray` & `memoryview` & None Type (`NoneType`) & Example: & Mutable and Immutable Data Types & Mutable & Examples: & Immutable & Examples: & Simple table: & Type Checking & Example: & Type Conversion & Integer to Float & Output:",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_6_2",
+              "text": "Review generated flashcards for `bytes` & `bytearray` & `memoryview` & None Type (`NoneType`) & Example: & Mutable and Immutable Data Types & Mutable & Examples: & Immutable & Examples: & Simple table: & Type Checking & Example: & Type Conversion & Integer to Float & Output:",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_6_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 7,
+          "title": "Day 7: 0 & Float to Integer & Output: & Integer to String & Output: & String to Integer & Output: & Common conversion functions: & Summary Table & Conclusion",
+          "focusArea": "0 & Float to Integer & Output: & Integer to String & Output: & String to Integer & Output: & Common conversion functions: & Summary Table & Conclusion",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_7_1",
+              "text": "Read & highlight section on 0 & Float to Integer & Output: & Integer to String & Output: & String to Integer & Output: & Common conversion functions: & Summary Table & Conclusion",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_7_2",
+              "text": "Review generated flashcards for 0 & Float to Integer & Output: & Integer to String & Output: & String to Integer & Output: & Common conversion functions: & Summary Table & Conclusion",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_7_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "mufu43hu63f6e",
+      "createdAt": "2026-09-24T17:57:32.466Z",
+      "updatedAt": "2026-09-24T17:59:38.478Z",
+      "userId": "mufu2bdy3ix2o",
+      "docId": "mufu43hm8o7l3",
+      "docName": "Routing Algorithm in Computer Networks.pdf",
+      "title": "Mastery Plan for Routing Algorithm in Computer Networks.pdf",
+      "targetDays": 7,
+      "dailyHours": 2,
+      "totalEstimatedHours": "14.0",
+      "schedule": [
+        {
+          "day": 1,
+          "title": "Day 1: https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2",
+          "focusArea": "https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_1_1",
+              "text": "Read & highlight section on https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2",
+              "completed": true,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_1_2",
+              "text": "Review generated flashcards for https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_1_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 2,
+          "title": "Day 2: https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+          "focusArea": "https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_2_1",
+              "text": "Read & highlight section on https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_2_2",
+              "text": "Review generated flashcards for https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+              "completed": true,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_2_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 3,
+          "title": "Day 3: Section 3: Deep Dive & Mastery",
+          "focusArea": "Section 3: Deep Dive & Mastery",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_3_1",
+              "text": "Read & highlight section on Section 3: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_3_2",
+              "text": "Review generated flashcards for Section 3: Deep Dive & Mastery",
+              "completed": true,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_3_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 4,
+          "title": "Day 4: Section 4: Deep Dive & Mastery",
+          "focusArea": "Section 4: Deep Dive & Mastery",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_4_1",
+              "text": "Read & highlight section on Section 4: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_4_2",
+              "text": "Review generated flashcards for Section 4: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_4_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": true,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 5,
+          "title": "Day 5: Section 5: Deep Dive & Mastery",
+          "focusArea": "Section 5: Deep Dive & Mastery",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_5_1",
+              "text": "Read & highlight section on Section 5: Deep Dive & Mastery",
+              "completed": true,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_5_2",
+              "text": "Review generated flashcards for Section 5: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_5_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 6,
+          "title": "Day 6: Section 6: Deep Dive & Mastery",
+          "focusArea": "Section 6: Deep Dive & Mastery",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_6_1",
+              "text": "Read & highlight section on Section 6: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_6_2",
+              "text": "Review generated flashcards for Section 6: Deep Dive & Mastery",
+              "completed": true,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_6_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 7,
+          "title": "Day 7: Section 7: Deep Dive & Mastery",
+          "focusArea": "Section 7: Deep Dive & Mastery",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_7_1",
+              "text": "Read & highlight section on Section 7: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_7_2",
+              "text": "Review generated flashcards for Section 7: Deep Dive & Mastery",
+              "completed": true,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_7_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "mugicg27237tp",
+      "createdAt": "2026-09-25T05:15:52.783Z",
+      "updatedAt": "2026-09-25T05:17:15.228Z",
+      "userId": "mugi3y7hr3u8w",
+      "docId": "mugicg1t3eqln",
+      "docName": "Routing Algorithm in Computer Networks.pdf",
+      "title": "Mastery Plan for Routing Algorithm in Computer Networks.pdf",
+      "targetDays": 7,
+      "dailyHours": 2,
+      "totalEstimatedHours": "14.0",
+      "schedule": [
+        {
+          "day": 1,
+          "title": "Day 1: https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2",
+          "focusArea": "https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_1_1",
+              "text": "Read & highlight section on https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2",
+              "completed": true,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_1_2",
+              "text": "Review generated flashcards for https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm1/2",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_1_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 2,
+          "title": "Day 2: https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+          "focusArea": "https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_2_1",
+              "text": "Read & highlight section on https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_2_2",
+              "text": "Review generated flashcards for https://www.tutorialspoint.com/data_communication_computer_network/routing_algorithm.htm2/2",
+              "completed": true,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_2_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 3,
+          "title": "Day 3: Section 3: Deep Dive & Mastery",
+          "focusArea": "Section 3: Deep Dive & Mastery",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_3_1",
+              "text": "Read & highlight section on Section 3: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_3_2",
+              "text": "Review generated flashcards for Section 3: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_3_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": true,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 4,
+          "title": "Day 4: Section 4: Deep Dive & Mastery",
+          "focusArea": "Section 4: Deep Dive & Mastery",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_4_1",
+              "text": "Read & highlight section on Section 4: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_4_2",
+              "text": "Review generated flashcards for Section 4: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_4_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 5,
+          "title": "Day 5: Section 5: Deep Dive & Mastery",
+          "focusArea": "Section 5: Deep Dive & Mastery",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_5_1",
+              "text": "Read & highlight section on Section 5: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_5_2",
+              "text": "Review generated flashcards for Section 5: Deep Dive & Mastery",
+              "completed": true,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_5_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 6,
+          "title": "Day 6: Section 6: Deep Dive & Mastery",
+          "focusArea": "Section 6: Deep Dive & Mastery",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_6_1",
+              "text": "Read & highlight section on Section 6: Deep Dive & Mastery",
+              "completed": true,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_6_2",
+              "text": "Review generated flashcards for Section 6: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_6_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        },
+        {
+          "day": 7,
+          "title": "Day 7: Section 7: Deep Dive & Mastery",
+          "focusArea": "Section 7: Deep Dive & Mastery",
+          "dailyTargetHours": 2,
+          "tasks": [
+            {
+              "id": "t_7_1",
+              "text": "Read & highlight section on Section 7: Deep Dive & Mastery",
+              "completed": true,
+              "estimatedMinutes": 48
+            },
+            {
+              "id": "t_7_2",
+              "text": "Review generated flashcards for Section 7: Deep Dive & Mastery",
+              "completed": false,
+              "estimatedMinutes": 36
+            },
+            {
+              "id": "t_7_3",
+              "text": "Take practice quiz & complete active recall exercise",
+              "completed": false,
+              "estimatedMinutes": 36
+            }
+          ],
+          "status": "pending"
+        }
+      ]
+    }
+  ]
+}

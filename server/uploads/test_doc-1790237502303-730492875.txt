@@ -1,0 +1,910 @@
+
+
+# Python Data Types – Detailed Notes
+
+## 1. Introduction
+
+A **data type** specifies the type of value that a variable can store.
+
+In Python, variables do not need to be declared with a data type. Python automatically identifies the data type based on the value assigned to the variable.
+
+### Example:
+
+```python
+x = 10
+name = "Sandhiya"
+price = 25.5
+```
+
+Here:
+
+* `x` → Integer (`int`)
+* `name` → String (`str`)
+* `price` → Floating point (`float`)
+
+We can find the data type using the `type()` function.
+
+```python
+x = 10
+print(type(x))
+```
+
+**Output:**
+
+```text
+<class 'int'>
+```
+
+---
+
+# 2. Types of Data Types in Python
+
+Python provides several built-in data types.
+
+### Main categories:
+
+1. **Numeric Data Types**
+
+   * `int`
+   * `float`
+   * `complex`
+
+2. **Boolean Data Type**
+
+   * `bool`
+
+3. **Sequence Data Types**
+
+   * `str`
+   * `list`
+   * `tuple`
+   * `range`
+
+4. **Set Data Type**
+
+   * `set`
+   * `frozenset`
+
+5. **Mapping Data Type**
+
+   * `dict`
+
+6. **Binary Data Types**
+
+   * `bytes`
+   * `bytearray`
+   * `memoryview`
+
+7. **None Data Type**
+
+   * `NoneType`
+
+---
+
+# 3. Numeric Data Types
+
+Numeric data types are used to store numbers.
+
+Python has three main numeric data types:
+
+* Integer
+* Float
+* Complex
+
+---
+
+## A. Integer (`int`)
+
+An integer is a **whole number** without a decimal point.
+
+It can be positive, negative, or zero.
+
+### Example:
+
+```python
+a = 10
+b = -25
+c = 0
+
+print(a)
+print(b)
+print(c)
+```
+
+**Output:**
+
+```text
+10
+-25
+0
+```
+
+### Example:
+
+```python
+age = 18
+marks = 95
+```
+
+Here, `age` and `marks` are integers.
+
+### Important points:
+
+* Integers do not contain decimal values.
+* They can be positive or negative.
+* Python supports very large integers.
+
+---
+
+## B. Float (`float`)
+
+A float represents a **decimal or fractional number**.
+
+### Example:
+
+```python
+x = 10.5
+y = 25.75
+z = -3.14
+```
+
+All three values are floating-point numbers.
+
+```python
+print(type(x))
+```
+
+**Output:**
+
+```text
+<class 'float'>
+```
+
+### Example:
+
+```python
+percentage = 87.5
+temperature = 36.6
+```
+
+---
+
+## C. Complex (`complex`)
+
+A complex number contains a **real part and an imaginary part**.
+
+The imaginary part is represented using `j` in Python.
+
+### Syntax:
+
+```python
+real + imaginaryj
+```
+
+### Example:
+
+```python
+x = 3 + 4j
+print(x)
+```
+
+**Output:**
+
+```text
+(3+4j)
+```
+
+### Example:
+
+```python
+z = 5 + 2j
+
+print(z.real)
+print(z.imag)
+```
+
+**Output:**
+
+```text
+5.0
+2.0
+```
+
+---
+
+# 4. Boolean Data Type (`bool`)
+
+Boolean data type has only two possible values:
+
+* `True`
+* `False`
+
+Boolean values are mainly used in **conditions and decision-making**.
+
+### Example:
+
+```python
+a = True
+b = False
+
+print(a)
+print(b)
+```
+
+**Output:**
+
+```text
+True
+False
+```
+
+### Example:
+
+```python
+age = 18
+print(age >= 18)
+```
+
+**Output:**
+
+```text
+True
+```
+
+### Common uses:
+
+* `if` statements
+* `while` loops
+* Comparisons
+* Logical operations
+
+Example:
+
+```python
+marks = 80
+
+if marks >= 50:
+    print("Pass")
+else:
+    print("Fail")
+```
+
+---
+
+# 5. String Data Type (`str`)
+
+A string is a **sequence of characters**.
+
+Strings are written inside:
+
+* Single quotes `' '`
+* Double quotes `" "`
+* Triple quotes `''' '''` or `""" """`
+
+### Example:
+
+```python
+name = "Sandhiya"
+```
+
+```python
+college = 'Jaya College'
+```
+
+### String with multiple lines:
+
+```python
+message = """Welcome
+to Python
+Programming"""
+```
+
+### String operations
+
+#### Concatenation
+
+Joining two strings is called concatenation.
+
+```python
+first = "Hello"
+second = "Python"
+
+result = first + " " + second
+print(result)
+```
+
+**Output:**
+
+```text
+Hello Python
+```
+
+#### Repetition
+
+```python
+word = "Hi "
+print(word * 3)
+```
+
+**Output:**
+
+```text
+Hi Hi Hi
+```
+
+#### Indexing
+
+Each character has an index.
+
+```python
+name = "Python"
+
+print(name[0])
+print(name[1])
+```
+
+**Output:**
+
+```text
+P
+y
+```
+
+Python uses **zero-based indexing**.
+
+| Character | P | y | t | h | o | n |
+| --------- | - | - | - | - | - | - |
+| Index     | 0 | 1 | 2 | 3 | 4 | 5 |
+
+---
+
+# 6. List Data Type (`list`)
+
+A list is an **ordered and changeable collection of elements**.
+
+Lists can contain different types of data.
+
+Lists are written using **square brackets `[ ]`**.
+
+### Example:
+
+```python
+numbers = [10, 20, 30, 40]
+```
+
+### Different data types in a list:
+
+```python
+student = ["Sandhiya", 18, 85.5, True]
+```
+
+### Accessing list elements:
+
+```python
+fruits = ["Apple", "Mango", "Orange"]
+
+print(fruits[0])
+print(fruits[1])
+```
+
+**Output:**
+
+```text
+Apple
+Mango
+```
+
+### Modifying a list:
+
+```python
+fruits[1] = "Banana"
+
+print(fruits)
+```
+
+**Output:**
+
+```text
+['Apple', 'Banana', 'Orange']
+```
+
+### Common list methods:
+
+```python
+append()
+insert()
+remove()
+pop()
+sort()
+reverse()
+```
+
+Example:
+
+```python
+numbers = [10, 20, 30]
+
+numbers.append(40)
+
+print(numbers)
+```
+
+**Output:**
+
+```text
+[10, 20, 30, 40]
+```
+
+### Important point:
+
+**List is mutable**, meaning its elements can be changed after creation.
+
+---
+
+# 7. Tuple Data Type (`tuple`)
+
+A tuple is an **ordered and unchangeable collection of elements**.
+
+Tuples are written using **parentheses `( )`**.
+
+### Example:
+
+```python
+numbers = (10, 20, 30, 40)
+```
+
+Accessing elements:
+
+```python
+print(numbers[0])
+```
+
+**Output:**
+
+```text
+10
+```
+
+### Tuple with different data types:
+
+```python
+student = ("Sandhiya", 18, 85.5)
+```
+
+### Important point:
+
+A tuple is **immutable**.
+
+This means we cannot change its elements after creation.
+
+```python
+numbers = (10, 20, 30)
+
+# numbers[0] = 100
+```
+
+The above modification produces an error.
+
+### List vs Tuple
+
+| List                             | Tuple                         |
+| -------------------------------- | ----------------------------- |
+| Uses `[ ]`                       | Uses `( )`                    |
+| Mutable                          | Immutable                     |
+| Can be modified                  | Cannot be modified            |
+| Generally used for changing data | Generally used for fixed data |
+
+---
+
+# 8. Range Data Type (`range`)
+
+The `range()` function generates a sequence of numbers.
+
+It is commonly used with **loops**.
+
+### Example:
+
+```python
+numbers = range(5)
+
+print(list(numbers))
+```
+
+**Output:**
+
+```text
+[0, 1, 2, 3, 4]
+```
+
+### Syntax:
+
+```python
+range(start, stop, step)
+```
+
+Example:
+
+```python
+print(list(range(1, 10, 2)))
+```
+
+**Output:**
+
+```text
+[1, 3, 5, 7, 9]
+```
+
+---
+
+# 9. Set Data Type (`set`)
+
+A set is an **unordered collection of unique elements**.
+
+Sets are written using **curly brackets `{ }`**.
+
+### Example:
+
+```python
+numbers = {10, 20, 30, 40}
+print(numbers)
+```
+
+### Duplicate values
+
+Sets automatically remove duplicate values.
+
+```python
+numbers = {10, 20, 20, 30, 30}
+
+print(numbers)
+```
+
+The result contains only unique values.
+
+### Example:
+
+```python
+fruits = {"Apple", "Mango", "Orange"}
+```
+
+### Important characteristics:
+
+* Unordered
+* No duplicate values
+* Mutable
+* Elements cannot be accessed using normal indexing
+
+### Common set methods:
+
+```python
+add()
+remove()
+discard()
+union()
+intersection()
+difference()
+```
+
+---
+
+# 10. Frozen Set (`frozenset`)
+
+A `frozenset` is an **immutable version of a set**.
+
+### Example:
+
+```python
+numbers = frozenset([10, 20, 30])
+
+print(numbers)
+```
+
+Unlike a normal set, a frozenset cannot be modified.
+
+---
+
+# 11. Dictionary Data Type (`dict`)
+
+A dictionary stores data in **key-value pairs**.
+
+It is written using curly brackets `{ }`.
+
+### Syntax:
+
+```python
+dictionary = {
+    key: value
+}
+```
+
+### Example:
+
+```python
+student = {
+    "name": "Sandhiya",
+    "age": 18,
+    "marks": 85
+}
+```
+
+Here:
+
+* `"name"` → Key
+* `"Sandhiya"` → Value
+* `"age"` → Key
+* `18` → Value
+
+### Accessing values:
+
+```python
+print(student["name"])
+```
+
+**Output:**
+
+```text
+Sandhiya
+```
+
+### Modifying values:
+
+```python
+student["marks"] = 90
+```
+
+### Adding a new item:
+
+```python
+student["city"] = "Chennai"
+```
+
+### Common dictionary methods:
+
+```python
+keys()
+values()
+items()
+get()
+update()
+pop()
+```
+
+---
+
+# 12. Binary Data Types
+
+Python provides three binary data types:
+
+### 1. `bytes`
+
+`bytes` stores immutable binary data.
+
+```python
+data = b"Hello"
+print(data)
+```
+
+### 2. `bytearray`
+
+`bytearray` stores mutable binary data.
+
+```python
+data = bytearray(5)
+print(data)
+```
+
+### 3. `memoryview`
+
+`memoryview` provides access to the memory of another binary object without copying the data.
+
+```python
+data = memoryview(bytes(5))
+print(data)
+```
+
+These types are commonly useful when working with **files, images, network data, and binary information**.
+
+---
+
+# 13. None Type (`NoneType`)
+
+Python has a special value called `None`.
+
+It represents **no value or absence of a value**.
+
+### Example:
+
+```python
+x = None
+
+print(x)
+print(type(x))
+```
+
+**Output:**
+
+```text
+None
+<class 'NoneType'>
+```
+
+It is commonly used when a variable currently has no value.
+
+---
+
+# 14. Mutable and Immutable Data Types
+
+This is an important concept in Python.
+
+### Mutable
+
+A mutable object can be changed after it is created.
+
+Examples:
+
+* `list`
+* `set`
+* `dict`
+* `bytearray`
+
+### Immutable
+
+An immutable object cannot be changed after it is created.
+
+Examples:
+
+* `int`
+* `float`
+* `complex`
+* `bool`
+* `str`
+* `tuple`
+* `frozenset`
+* `bytes`
+
+### Simple table:
+
+| Mutable    | Immutable |
+| ---------- | --------- |
+| List       | Integer   |
+| Set        | Float     |
+| Dictionary | Complex   |
+| Bytearray  | Boolean   |
+|            | String    |
+|            | Tuple     |
+|            | Frozenset |
+|            | Bytes     |
+
+---
+
+# 15. Type Checking
+
+Python provides the `type()` function to identify the type of a variable.
+
+### Example:
+
+```python
+a = 10
+b = 10.5
+c = "Hello"
+d = [1, 2, 3]
+
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+```
+
+**Output:**
+
+```text
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'list'>
+```
+
+---
+
+# 16. Type Conversion
+
+Type conversion means changing one data type into another.
+
+### Integer to Float
+
+```python
+x = 10
+y = float(x)
+
+print(y)
+```
+
+Output:
+
+```text
+10.0
+```
+
+### Float to Integer
+
+```python
+x = 10.5
+y = int(x)
+
+print(y)
+```
+
+Output:
+
+```text
+10
+```
+
+### Integer to String
+
+```python
+x = 100
+y = str(x)
+
+print(y)
+```
+
+Output:
+
+```text
+100
+```
+
+### String to Integer
+
+```python
+x = "50"
+y = int(x)
+
+print(y)
+```
+
+Output:
+
+```text
+50
+```
+
+Common conversion functions:
+
+```text
+int()
+float()
+str()
+bool()
+list()
+tuple()
+set()
+dict()
+```
+
+---
+
+# 17. Summary Table
+
+| Data Type    | Example            | Description                   |
+| ------------ | ------------------ | ----------------------------- |
+| `int`        | `10`               | Whole numbers                 |
+| `float`      | `10.5`             | Decimal numbers               |
+| `complex`    | `3+4j`             | Complex numbers               |
+| `bool`       | `True`             | True/False values             |
+| `str`        | `"Hello"`          | Text/characters               |
+| `list`       | `[1,2,3]`          | Ordered, mutable collection   |
+| `tuple`      | `(1,2,3)`          | Ordered, immutable collection |
+| `range`      | `range(5)`         | Sequence of numbers           |
+| `set`        | `{1,2,3}`          | Unique elements               |
+| `frozenset`  | `frozenset([1,2])` | Immutable set                 |
+| `dict`       | `{"a":1}`          | Key-value pairs               |
+| `bytes`      | `b"Hello"`         | Immutable binary data         |
+| `bytearray`  | `bytearray(5)`     | Mutable binary data           |
+| `memoryview` | `memoryview(...)`  | Memory access                 |
+| `NoneType`   | `None`             | Absence of value              |
+
+## Conclusion
+
+Python provides many built-in data types to store and manipulate different kinds of information. The most commonly used types are **int, float, complex, bool, string, list, tuple, set, and dictionary**. Python's dynamic typing allows the programmer to assign values without explicitly declaring their data types. Understanding data types is essential for writing correct and efficient Python programs.
